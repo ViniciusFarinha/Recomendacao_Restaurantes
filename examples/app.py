@@ -7,7 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 
-df_recomend = pd.read_csv('data/df_recomend.csv')
+df_recomend = pd.read_csv(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\data\df_recomend.csv')
 
 st.set_page_config(page_title='Recomenda Restaurantes')
 
@@ -16,7 +16,7 @@ st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
 
 #Imagem
-image = Image.open('Images\yelp.jpg')
+image = Image.open('Recomendacao_Restaurantes\Images\yelp.jpg')
 
 st.image(image)
 
@@ -24,7 +24,7 @@ st.image(image)
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 # -----Model-----#
 
-with open(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\examples\grafo_modelo.pkl','rb') as model_file:
+with open(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_file:
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
@@ -525,7 +525,7 @@ if st.button('Me Recomende!'):
 
 #Imagem
 
-image2 = Image.open('Images\Logo.jpg')
+image2 = Image.open('Recomendacao_Restaurantes\Images\Logo.jpg')
 
 st.image(image2)
 
