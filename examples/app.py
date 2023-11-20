@@ -28,7 +28,7 @@ with open(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
-    df_recomend = pd.read_csv('data/df_recomend.csv')
+    df_recomend = pd.read_csv(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\data\df_recomend.csv')
     # Encontrando o ID do restaurante com base no nome
     restaurant_ids = df_recomend[df_recomend['name'] == restaurant_name]['id'].unique()
     if not restaurant_ids:
