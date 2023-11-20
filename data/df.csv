@@ -1,0 +1,1001 @@
+id,name,is_closed,review_count,rating,price,distance,category
+vf6l-OLvtPKWSfFd9ZnsOw,Aprazível,0,142,4.5,3,6953.18379292682,Brazilian
+E1FQYklCR9qCMIzMrrjhsw,Braseiro,0,39,4.5,1,8148.526023653759,Brazilian
+jPmgGTlstrxhbCaySqNOTw,NOSSO,0,10,4.5,1,7303.38726912879,European
+vgfhhEjfxrY9Soh0M80JZw,Ferro e Farinha,0,30,4.5,2,7888.899910994605,Type of Restaurant
+NUeyA3LS7JnQdpomojHrWA,Nomangue,0,106,4.0,2,8337.327724370669,Fish
+MalRW9DCnqDDCa6gEjD7rA,Churrascaria Palace,0,151,4.5,4,8581.289087273199,Type of Restaurant
+Y4KuvLClTon-wZc0iEZyoQ,Teva,0,19,5.0,2,6906.607554500947,Vegan
+5e3zTy_MsKjCeNJpmtTk0g,Haru Sushi Bar,0,13,4.5,2,8003.028083541857,Asian
+6ULYwVUA3j0RpZ2lkV4e1Q,Cervantes,0,38,4.5,1,8582.777159012188,Brazilian
+EQ0gUFQtqTfzdRNOCrc6NA,Garota de Ipanema,0,122,4.0,2,7745.253605911179,Brazilian
+ju8AdTLenJV-deUanEjJUA,Via Sete,0,85,4.0,2,7148.185346367338,European
+UAYdmU0Asim4aJronqYsKg,Oteque,0,6,5.0,1,6687.418399283273,European
+7zGAddUwha8eJdUUNbu3mw,Jiló na Manteiga,0,1,5.0,1,2663.0341235177943,Rodizios
+3fMzJZqKsoJ9C8Cf0CdW-A,Marius Degustare,0,116,4.0,4,9545.386572561936,Asian
+5WrvqjqZOk6cEQ9xJLRX2Q,El Born,0,37,4.5,3,8181.592559075557,Beverages
+5yoPIIpDYddn56FeRnjHNg,Lasai,0,21,4.5,4,6436.665392987514,Brazilian
+4AUlmM2Kq7VJ24vke9xh7w,ORO,0,17,4.0,1,6519.691926698063,Brazilian
+weWONFLoHhTs7C5hB3ctJw,TT Burger,0,63,4.0,2,8764.47168522953,Snack
+F4sI6j2kHEJ6w5j8HA_2GQ,Grado,0,3,4.5,1,4958.5491084478135,European
+GIopqPAk8bKvirDiuYP9xw,Pérgula,0,6,4.5,3,8547.577079914905,Brazilian
+p_DG-aPCU12O1if3RYpXGg,CT Boucherie,0,65,4.5,4,6145.963805061377,European
+lPXJjgLUX26nV3jgeXJPVA,Santa Satisfação,0,33,4.5,2,8118.05544780831,Snack
+XS1EXMURTJcdh8nlquhjmA,Artigiano,0,30,4.5,2,6906.238550077439,European
+lPhgV983rEFxZZi-FcQ7dw,Puro,0,21,4.5,3,4956.155791741692,European
+vQrsn9iFjaYqDHCE8XXKjQ,Pici Trattoria,0,10,4.5,3,7405.429436861041,European
+PkB8fC0LwUntpOp_QYMd8A,Forneria Santa Filomena,0,4,4.5,2,4653.807710918039,Brazilian
+IsY1jDGDQ3iMUkR3qwk67A,Buffallos Bar,0,5,4.0,1,4278.428682294451,Beverages
+Vi5AwR-6w8dDFh-TY27wJQ,Otto Bar e Restaurante,0,10,4.0,3,1381.0271280633735,European
+s_F3_1bkg7EW7IqZJXtFqA,Zazá,0,119,4.0,3,7624.157401083592,European
+Um0l8PAAgqhfmMZ0TJVRrA,Tragga,0,5,5.0,3,6555.295202282495,Latin
+haHe2m2THDc_w6w5FyYZoQ,Fiorino Bar e Restaurante,0,11,5.0,3,3669.8236904126034,Type of Restaurant
+0AzoLR6LoGPJx0HhoIZFCw,Tacacá do Norte,0,24,4.5,1,7983.278893348405,Brazilian
+w0-WG9YEOQ7AwWvxrUukRg,Joaquina,0,26,4.0,2,9035.778410655515,Beverages
+fCunCxqTmy38FdF3LfgDaA,Ogrostronomia,0,1,5.0,2,4558.703457786265,Beverages
+ZZTSCnjORyhKEbj2vgOswQ,Rotisseria Sírio Libaneza,0,34,4.5,1,7748.484481897885,Asian
+38LYPbhf81fo6f8d9Ovi-g,Entretapas,0,7,4.0,2,6381.122966945856,European
+Y5wa2L3_wP2NTEFC0IWTkQ,CoLAB,0,4,5.0,1,7768.137469475031,Beverages
+fIowIGziQepeSXFhb5-byg,A Polonesa,0,8,4.0,2,8037.882214167359,European
+5mEVqj0y-HEcBv0e9npZbQ,Fat Choi,0,9,4.0,2,8065.853355387764,European
+khjMgoq1C8QPfsO3S1ByKw,Filé de Ouro,0,7,4.5,1,5041.086176544012,Brazilian
+l52jsF7w1nn2DqEMDBTkYA,ino.,0,3,4.0,1,6397.301571487241,European
+oOhQdR0DR2XIiiztOCNsng,Sabor da Quinta,0,1,5.0,1,5033.753845695856,Brazilian
+CdX6Nx2am3A03UhshGkudA,Prana Vegetariano,0,13,5.0,2,5913.5074398548,Vegan
+MIrAWoEhatiO-Xzlx-BVvA,Trattoria Sarda,0,2,4.5,2,8138.9955081530015,European
+46IwUMOQ5lciuQZum0An9g,Malta Beef Club,0,8,5.0,3,5147.207372434321,Type of Restaurant
+n_9pJJMi5MFbKSCtcvsgpg,Zuka,0,41,4.0,3,6191.397020448749,European
+W7-YfbhD8SnQspDMtmEGcA,Mauá,0,7,4.0,2,8540.96153828975,Brazilian
+2ajfQxUupClb03uGnGH6IQ,Amir,0,57,4.0,2,8689.731139285484,Asian
+IR21p4WKNXsBnP6L5NDJTQ,Restaurante Broth,0,8,4.5,2,8411.008126622495,Type of Restaurant
+hw-Q4poo76s_d4SF-r82Vg,Quadrucci,0,17,4.5,4,6195.0953946283735,European
+20jOyfj_QUGUXAQT3odF4A,Gabbiano,0,5,5.0,3,11617.95234857733,European
+hM9fU2GWMQmqvjoRxiRivw,Miam Miam,0,17,4.5,2,7997.741978670845,Brazilian
+Yu5BBqUzir-0k4LCTi-VkQ,Comuna,0,64,4.0,2,7104.249551796568,Snack
+fhdztzGnMFLwZtsyLiiXow,Bar Astor,0,64,4.0,2,8294.153015319553,Beverages
+HcUU1vRXT9kzavDxxUkuxg,Taliato,0,7,4.5,2,8209.907612510995,Brazilian
+5ZtIwa7tut_Hilx3oSUJGQ,Rubaiyat Rio,0,23,4.0,4,5199.71074902429,Type of Restaurant
+yB6RrHPuETtKOmMuwTFO7g,Bom na Brasa,0,2,3.5,2,7655.439411513799,Chicken
+LXSM6eM1dVBGmnazPM89vw,Maè Noi,0,5,4.0,1,6631.104759635345,Asian
+va4I1DkrB1oXSzO3OcTU_w,L'etoile,0,11,5.0,4,6803.775576721404,European
+uV4Wuhqm0lc1JgcjOeeooA,Bar da Gema,0,7,3.5,2,1548.6900527729504,Beverages
+BCx49I9RvnRzZ8lpzXBkmQ,Alfaia,0,23,4.5,3,8275.392234682153,European
+tzVddokZ7biMgT_CxFaQeA,Porta do Sol,0,2,4.5,2,2598.6051108701804,Type of Restaurant
+AwMd0I-hlrpw5KaW_-oIUA,Space Storm,0,1,5.0,1,1566.970984920719,Snack
+Gi2HXvDJIDwVDuZAyH1YFQ,Giuseppe Grill,0,38,4.0,4,6358.314985621861,Type of Restaurant
+LXy8UV2ziZJHPMfXNLAFLg,Bar do Horto,0,21,4.5,2,4481.578212544356,Beverages
+oiaZBmNMPwiwr1fFxO7Wlg,Antiquarius,0,3,5.0,3,6548.574164022146,Brazilian
+FnBusE3pnSIK93fvMrNWjQ,SUD - O Pássaro Verde Café,0,2,5.0,1,4952.51970497208,Brazilian
+QStP2W-mCgr3dTDs0kBaBg,Bucaneiros,0,13,4.0,1,2598.7920603180955,Snack
+uXiWi6BMf9G9hblFi3bRIg,Pomodorino,0,11,4.5,4,7003.404565857149,European
+K7ElVO2ubVlFs0AS2pzVcQ,Casa do Sardo,0,16,4.5,2,5029.570311643796,European
+Hr4XcfVNATM86ds-F6tmeQ,Bar Du Bom Croqueteria & Grill,0,6,4.0,2,1521.0477548239362,Type of Restaurant
+5lGZKXJTUQqb6_bMfGZZ8A,Turino Ristorante & Pizzeria,0,6,4.0,2,2693.2879833304687,European
+tzpYEhnJfmYrNYk_cjgaQw,L'Atelier Mimolette,0,3,4.5,1,7093.529609020651,European
+smaqTJPpjPUUsYHB69cRoQ,Adegão Português,0,7,4.5,4,5527.392375536853,European
+QlA41bUutm2nmD5al1CxgA,Restaurante Siri,0,2,4.5,1,2622.934214588128,Fish
+LZMGQ4vTM0-moU6PYzSHng,Rian,0,10,4.5,2,8207.962503414274,Brazilian
+sJz2jiRNAXTDc5JvmRgXug,Bar Urca,0,112,4.5,2,9716.373936179083,Brazilian
+UdDqoV8pRueF9mNS4p_OuQ,Restaurante Salete,0,4,4.0,2,4114.461013137986,Beverages
+rYIVRxEYK9-fcR6EBUzjhw,Irajá Gastrô,0,23,4.0,3,6373.938205426152,Brazilian
+WYmZDSwt4D56OfxtNPqaVw,Nova Capela,0,25,4.0,2,7775.043810347885,Beverages
+sbGe6O325Kh84KX-SJn-3A,Braseiro da Gávea,0,33,4.5,2,5237.738696381855,Brazilian
+7joH9S1HCETJWTHrtvyKnQ,Espaço 7zero6,0,6,4.0,4,7051.770204755538,Entertainment
+Z198lFYxauoatPZiEfZAFQ,Cantina da Praça,0,3,3.5,1,8164.894799325562,European
+HGdY5Y4KHk9TaAAVi_i_dA,Botequim da Cidade do Samba,0,1,5.0,2,7240.810433171437,Entertainment
+2_fgjchsfMuZrAuYuASVzQ,Barraca da Chiquita,0,13,4.0,1,8114.828777210117,Brazilian
+X2WUgOkYKN4vr2VSGfCKeA,Eleven Rio,0,5,4.0,4,5722.376727380964,European
+l58Eo58MVxvKkUinoA9uZg,Quitéria,0,10,4.5,3,7524.692842189316,Brazilian
+CFG4iJX7enIMg-SOTnGuPg,Massa,0,2,4.0,3,6108.944704843623,European
+BpQLSta1mLHCACSl_zpGtw,Senkai,0,1,4.0,3,1695.4237532919203,Asian
+svVJSeh-wQ4r7h0HGa1xzw,Veggie Govinda,0,11,4.5,2,8567.18990237605,Asian
+iBOKncwqyvqLJxGqAxiTHQ,Gurumê Ipanema,0,12,4.0,1,7010.792971885448,Asian
+fYiw1xs1W_Dtz1vLI2j6xA,Manoel e Juaquim,0,9,4.0,2,8278.077594599856,Type of Restaurant
+_8HlnwhqNdm-rC7vrvaYpg,Entretapas,0,1,4.0,1,5143.338580481311,European
+B_rF1RQA93fSqO6gAJh-Bw,Lima Restobar,0,24,4.5,3,6545.555967608536,Latin
+9bVDU1o8y4wZ-PP_4cHsFg,Le Blé Noir,0,15,4.5,3,8160.918132821855,European
+frfJV0ySmUIaJTSce_OsIg,Dom Cavalcanti,0,3,5.0,3,7285.858134619727,Brazilian
+QITNnUXQ4LAXA6jXVuMtNQ,Restaurante Empório Santa Fé,0,2,4.0,1,8426.587242024389,Type of Restaurant
+1Y3gyy1JnWL-jRwrDtXfuQ,Tretonti,0,1,5.0,2,8325.69803207312,Brazilian
+NPd_Y2EE12QlvxRV9jiNcg,Gracioso,0,2,4.5,2,8200.635552467602,European
+6DkYtw8FIMGGysdafYKjaA,Santa Satisfação,0,3,4.5,2,6379.327785911097,Fitness
+Pb3VlbNUVXkDpjeEXKgohw,Yeasteria Ponto Cervejeiro,0,8,5.0,3,2345.3890162993184,Beverages
+1q2RUmmfOqlYDD5USX4lbQ,Restaurante Fazenda Urbana,0,2,3.5,1,3781.013264760854,Type of Restaurant
+Gc75PyRsFrV9uIt4rMdXRw,Aconchego Carioca,0,16,4.5,2,4777.449426177091,Brazilian
+rAt9rExO-prU92UXcXe73w,Azteka,0,42,4.0,2,7913.316343603717,Latin
+zczzXbq0UqPYZoGgZo6e7A,Botequim Informal,0,25,4.0,2,8265.459412605058,Brazilian
+ABAe8NZKg-L7a0ItiCEq1Q,Aloha,0,3,4.5,2,13251.464044040573,Type of Restaurant
+2kvnSFdUNkMTSFNoazTEOw,Gouranga Veggie,0,3,4.0,1,7707.447199260403,Asian
+aw-SfAuRrT828oV3ppRiDQ,Bar do Mineiro,0,53,4.0,2,7081.469059053719,Brazilian
+tlutqWIuALEsrW6-HzTo8A,La Carioca Cevicheria,0,18,4.5,2,7069.999081752339,Latin
+HePWjKLblVLhBlWqCRFkxA,Mamma Jamma,0,37,4.5,2,5112.016978357892,Type of Restaurant
+MK-bX9vJrrLwOrs8WjOtxw,Empório Grão e Cia,0,4,5.0,1,7640.061935837312,Type of Restaurant
+rXTisvO4YY35ImbgFw57mA,Bangalô,0,14,4.0,2,10802.189266084964,Brazilian
+lkiS6kLl8KaVcw0rc0ugRA,Casa da Suíça,0,4,5.0,3,7928.692299724832,Type of Restaurant
+fFjbODoUPP8_jj5z2c9vzA,Cais do Oriente,0,8,4.0,4,8872.698700071576,Type of Restaurant
+W8zOcBiMYj3YAQAievmVTw,Dagosto,0,2,4.5,1,8300.00831101947,European
+aNghIYSKmRufeOl953QfPg,Estação Baião de Dois,0,8,4.0,2,5183.866613864057,Brazilian
+Y0v2ktKJIXrYhqEDoqSqug,La Bocca,0,5,4.5,2,7245.823148896288,European
+jgqmHN3vgkZbI04PgZxb_Q,Olympe,0,14,4.0,4,5744.944600699101,European
+Gf7m6a5PC4CwAtCCXC4qTQ,Hachiko,0,20,4.5,4,8954.81683660069,Fish
+Ko15KuT47ejFXlNEvljwbg,Pizza do Bola,0,2,4.0,1,6240.918085724999,Type of Restaurant
+9XtvDguY5vVoGcuupF9Bxg,Mr. Lam,0,16,4.0,4,5734.513991237921,Asian
+wHDOqxKyv9CFSJXMpbh3FQ,Luce,0,2,4.5,1,6906.310221822234,European
+n4uqIRHjMe9bGZQwo7Ohwg,Galeto Sat's,0,69,4.5,2,8582.101837023365,Beverages
+hBtJUHKRI919OdUrdI5upA,Restaurante Shirley,0,29,4.0,3,9116.2347043528,Fish
+yZ44tsSCZE7az3zLgw66-Q,Na Brasa Colúmbia,0,2,5.0,1,6269.252650420276,Type of Restaurant
+RapXb_rDDZItAyVJeuqDUA,L'atelier du Cuisinier,0,5,5.0,3,8488.38826078882,European
+kqTqUlSjlQg93uIeTR_8uQ,Casa Momus,0,15,4.0,3,7812.483570398876,Asian
+DB3RlzxSav11yttLoOJMXg,Carmelo,0,12,4.5,3,8021.816186906431,European
+kxYtXT1NgqXvuzqbnJuEbw,A Marisqueira,0,5,4.5,3,8257.92750102096,Fish
+mMcpdXHvKgdejK_Ec6Oseg,Felice Terrazza,0,3,4.5,2,6583.267939737975,European
+fQB0j3lwnYXzWcBtAgm8tA,La Villa,0,7,4.5,3,7670.190317092311,European
+fm1tCw_7OL4czml6gwWoXw,Bistro Ouvidor,0,1,5.0,1,7228.676235091975,European
+T3FzBYsUi2glWyZJNaTweQ,Galetos Copa Rio,0,24,4.0,2,8548.959374500862,Brazilian
+9EdHcXQMJ7KIkOaBtKxRmQ,Rio's Gourmet,0,4,3.5,1,4621.766502329376,Brazilian
+sgAH7Ao9lt1mStfgezQh3g,New Natural,0,17,4.5,1,7744.459069255055,Fitness
+gm94aNpBLD7-HsZ8E7fl6A,Restaurante Mosteiro,0,3,4.5,1,8647.68547637919,Brazilian
+sViI9AY8twhROxXf9WrRDQ,Restaurante Sá,0,2,5.0,1,8384.213904702598,Brazilian
+noo07gYMrqP-iyvgWmft3A,Vikings,0,18,4.5,2,2616.0984067202357,Snack
+DWW3Is7qbanNBfnlB4NRoA,Cantinho da Bisa,0,1,4.0,1,3912.417946687196,Type of Restaurant
+P45GllUEwT9hCARtIi07Yw,Capitão Jacques,0,4,4.5,2,8327.318533992797,Brazilian
+dKuW1DH4LRsjQR8IxM9lKw,Tonoshii,0,2,4.5,3,1163.022268508541,Asian
+1nzGrDTjHpqSs82x2EGuqQ,Wenceslau Beer Club,0,6,4.5,2,4668.240540766702,Beverages
+1LJsx5LbNOoHv6fLCdCKgQ,Luigi's,0,13,4.0,2,7534.201138217855,European
+fZ4ZKMCnwrVOxrVhRVNkBQ,Hollandaise,0,8,4.5,3,13287.416666421845,European
+6NnC0kJTb_pSVlFAwYlq0w,China Town,0,1,5.0,1,4081.782520653205,Asian
+sfVy0VxU2qKelkjUi1poqA,Eça,0,4,5.0,1,8537.924324240163,Type of Restaurant
+R-McEWdAgHwuVKgPiQ64Jw,Brasa Gourmet,0,11,4.0,2,3870.9609857043047,Rodizios
+qX-VZqiIWaR8ZHhG_Q8yZw,Pabu Izakaya,0,3,4.5,2,6260.030882080806,Fish
+b81uWDMELCvpz3-ezx3WcQ,Naturalie Bistrô,0,8,5.0,1,6800.154079885471,European
+bvQLpxjX1g1niw3sacyMhA,Martinez,0,16,4.0,2,8994.435747915231,Type of Restaurant
+q9UtghR4gXR2rdE8-UHysg,Cipriani,0,6,4.0,3,8507.610008981805,European
+eGzaS5FshcyitYNFkPMcew,Dona Fulô,0,1,5.0,1,1126.9744241921228,Snack
+-ejXjYF_RhbViPIlyhtVkw,Posí,0,4,4.0,1,6963.2039817067935,European
+WsPgxqeD4gnevPgzzwcUmw,Cantina Donanna,0,18,4.0,2,8200.639462270892,European
+SI8a9fbbCVidbtfCE-bSzg,Boteco Belmonte,0,50,4.0,3,8148.075565592754,Beverages
+yJ0l7aLgXicWzcwPbjFVSQ,Domenica,0,1,5.0,1,3670.579324922745,Type of Restaurant
+kL5_PfF0a7w7CDdb-TkceQ,Wei Ming,0,1,5.0,3,6604.851634056491,Asian
+KetBSgSmJehktQT3V20Aig,Tango,0,6,4.0,3,8063.135921531564,Type of Restaurant
+T9BbFwfZqfuzoMIx4c4SyQ,Crazy Cats Bistrô,0,1,5.0,1,6768.428092259609,European
+dDLv5bMOhAyoWQookRZQsA,Giro Leblon,0,2,4.0,1,6340.190501813733,Chicken
+lGwPU-1jn7lCufJAhXLF2Q,A Propósito,0,1,4.0,2,2825.604325584975,Type of Restaurant
+OlSRbTaBFUzi-y2JKRiMLg,Camafeu Bistrô,0,1,4.0,1,2598.6051108701804,Brazilian
+nEBeIr0ZKvBENDJJEl-YOw,Restaurante Meu Cantão,0,2,4.5,2,2823.9195068830663,Type of Restaurant
+69JjYck39olmAb7172OQZA,Fratelli,0,7,3.5,3,10981.563734585834,European
+eF6Zna7SXr-6Wa-ZfsgWRA,Lorenzo Bistrô,0,7,4.0,3,4925.222474788707,European
+qfzgH-g3o1RAAkU3meVuOQ,Salsalito Café,0,2,4.0,1,7430.916815919486,Brazilian
+IT7bebP0UVMADQckptPtkA,Villa Otto,0,4,4.0,2,1278.875235338846,Type of Restaurant
+KccrOLFmRIhN2kCYrzr6Pw,Espírito Santa Restaurante,0,29,4.0,3,7300.455068155144,Brazilian
+FYRqPbRf7PG2kfR7S6E1Ww,Enchendo Lingüiça,0,7,3.5,3,1637.1016728386935,Brazilian
+FWRQz0VpYIt6KRko3SX76Q,Bar da Pracinha,0,4,4.5,2,3556.147601265895,Brazilian
+t4mADSjbvXZ5erpGLCW6-w,Julius Brasserie,0,11,4.5,3,9428.063698873675,Type of Restaurant
+cEdATwyUWspNhGYQ-rjMTA,Miako Culinária Japonesa,0,7,4.5,3,7564.206710252725,Asian
+ohezPUX0TyYBDUWtRQ8-AQ,Mercearia da Praça,0,10,4.0,2,8181.621848942427,Type of Restaurant
+BpAN1KTe8T2XLhGT1FOb-A,L'Ulivo Cucina e Vini,0,7,4.5,1,8069.315269016604,European
+0oEYRbgmnYwP8CHIGhGOtQ,B de Burger,0,29,4.0,2,8136.097546638983,Snack
+mrH-gvF-WS5wh4PzTSJQVw,Manoel & Juaquim,0,21,4.0,2,8507.533688912426,European
+AUJNDVMZm8ZU7JB0pIm97A,Nam Thai,0,26,3.0,3,6386.839210527603,Asian
+UIA7315QQlOcHXZRKMkqiA,Yumê,0,14,4.5,4,4503.181233775415,Asian
+yDwB_HpO75Lpu71767Z1Vw,Riso Bistrô,0,5,4.5,2,6912.710375450824,European
+3DxAL2pxwLdcDvl2fsXg1g,Cidade do Porto,0,4,4.5,3,5419.780006575683,European
+YZlfui7P_E3y9A5qDMCIqA,Gero Trattoria,0,2,5.0,4,6606.521461559116,European
+Jamx7dZ7ljukcYxfEI6zIA,Adega Perola,0,25,4.5,2,7742.359404592674,Fish
+RYBjguED8lhDV1bcBzPTWA,Casarão 1903,0,2,4.5,3,7170.962685335796,Beverages
+Y--EbCqry41AcnYcwTwIvA,Bar do Júlio,0,1,5.0,1,5487.987215511987,Type of Restaurant
+REFIgfJlOAxmqR0PEQTh5g,Gurumê Fashion Mall,0,11,4.5,4,6925.629397625344,Asian
+lDnOv58XP5H9Sbz2j9qPog,Meza Bar,0,35,4.5,3,6565.150138935421,Beverages
+T_PRDs-cvs6zGGBF2t1FyQ,Bistro Villarino,0,4,4.5,1,8503.146295110486,Type of Restaurant
+cSi7Sb4CoF0HgKVlKFuSZw,Cachambeer,0,17,4.0,2,5779.816951798789,Brazilian
+6dERBtE538SRUxGk5d1uqg,Armazém São Thiago - Bar do Gomez,0,18,4.5,2,6811.754448136494,Type of Restaurant
+-hFJ_L-r6rAJ7wcIKsMFaw,Mani&Oca,0,3,4.0,1,5058.033835514725,Brazilian
+jdRp6fcM-aE9MfAyqVHFug,Pe'ahi,0,2,2.5,3,2220.7816711539062,Fish
+tepG9zf0dRrjl0KzwAnUsA,Gruta,0,1,5.0,1,4781.954425984231,European
+1p35qs8ns3GUm4iswqndAA,Noi,0,8,4.5,2,6118.107514629546,Beverages
+cbhOpM1KlYwP8mxA_WuY0Q,Café Lamas,0,20,4.0,2,7900.631080829206,Brazilian
+-Vlnl8LUgbi_yWkwXlPLIg,Tip Top,0,3,4.0,1,3115.1126566509897,Brazilian
+7h2m7M6ubzoQxcC9UzUW4g,Restaurante Siri,0,2,4.0,2,2605.507558360422,Fish
+bMKaSouI6inDDadiPSq2wg,Espetto Carioca,0,3,4.5,3,5346.53644867154,Beverages
+8_6Os3nAoNU2hLy4akwU0w,Terra Brasilis,0,15,3.5,2,9360.881880195497,Type of Restaurant
+AQoWReFmZRYDhnaYfjZqRQ,Príncipe da Arábia,0,4,4.5,2,4546.444261698578,Asian
+0s6fulGZJAhRPVt8qNe9MQ,Sushi Leblon,0,64,4.0,4,6211.673758548586,Asian
+ABuwsJEfzxsz8pyzKf1Mlw,Brasserie Cidade Nova,0,1,5.0,2,5947.133373627391,Beverages
+sl62Q73wKviAZRJUMy3ryw,Mitsuba,0,12,4.5,3,3585.693964469496,Asian
+__5K9LBSw7LhH-4EubSCvg,Esconderijo,0,1,5.0,1,1714.2837599924158,Beverages
+8eBBcGeY2Z7yWv9D5y-Xsg,Costelão do CADEG,0,4,3.5,2,4946.350614495869,Type of Restaurant
+gMpYZ8t6fuYDam8fzG41lQ,Chez Claude,0,6,4.0,1,6099.2107247375525,European
+TmVkctpnYbnLBDeN1xO8lg,Boteco D.O.C.,0,1,4.0,1,6215.840984894254,Type of Restaurant
+3HTpqHt3q1OfeNFtzBoEdw,Albamar,0,1,5.0,3,9272.405074176206,Fish
+juxu6KmXGiKsbO7LziMG9g,Camolese,0,7,4.0,1,5206.687857577069,Asian
+hZSIT2RnEA7zJKZt1sMjFw,Conde Gourmet,0,5,4.0,2,3272.637953703611,Type of Restaurant
+uu11yfNncVGXqaTlhRtFUg,Zacks,0,3,4.5,2,7572.123900859438,Snack
+vB9DVLh5yKvrmMxi3jwNFw,Degrau,0,11,4.5,3,6525.171216304011,Brazilian
+0I4oJ91qEmtx-NpXE-_KvQ,Restaurante Quinta da Boa Vista,0,2,4.0,1,5204.634180058686,European
+eLltZUakPwhOGsEDb-pYFA,Le Vin Bistro,0,10,4.0,3,7155.051657936959,European
+EuNRIdI_IvtwJlZIbhUeww,Azur,0,2,4.5,1,6904.770016308537,Brazilian
+SYgDua8vxXXGUocIE7mJuw,L'Entrecôte de Paris,0,5,4.0,3,7258.118878939759,European
+bHm_q5emzivYXTBH0Ndspw,Restaurante da Praça,0,1,5.0,1,7613.632277245496,Brazilian
+DB0tVeie8aeDSrrNBuFbyg,Restaurante  Pitada,0,2,4.5,2,7005.0924520079125,Brazilian
+d0rN7iuEdzV9B5xLAbFCQA,Fellini Restaurante,0,8,4.0,2,6333.2894746892825,Type of Restaurant
+LxymCqXQvcNd1BIco_tpig,Mangue Seco,0,9,4.0,2,7823.573063197829,Type of Restaurant
+yaJhyDa9yWJA4LBH0OKVUQ,Da Brambini,0,7,4.5,3,9355.645526650886,European
+Uy6X2HjpihvjaIGDxvoz9g,Restaurante Canto Alegre,0,1,5.0,2,9454.369545675265,Type of Restaurant
+HsXKe-ibPZhDQPNDVUMNWw,Só na Brasa,0,2,4.5,2,4769.474693025702,Type of Restaurant
+JpIgK0EYr_eUV5sM8GmmYg,Empório Gourmet,0,1,4.0,1,4763.205770891011,Type of Restaurant
+a1D5S6KvLnPMVgzzWd-JWA,Sushi Akyrio,0,7,4.5,2,8983.629036604545,Fish
+PgGdQkNcIsw1tb8eF5CkLw,Térèze,0,7,4.0,4,6983.976113154468,European
+7qX0uJd1jcpvT89b2gDA7Q,Delírio Tropical,0,27,4.5,2,7306.974937456208,Fitness
+Rp0-sZhGlGTioIb-TbG-Yg,Frédéric Epicerie,0,1,5.0,1,8996.889475643662,Beverages
+mGF1yeKEv6Ji8fwnTFMiZQ,Galli,0,9,4.0,3,2079.8133564792947,Brazilian
+7DJiqkNKWObgNxopBubmeg,Bingo,0,5,4.0,3,4958.043638640597,Brazilian
+u8F1byJgSS_5df8ScZeMIQ,Mironga,0,10,3.0,3,8622.998885008814,Brazilian
+k88OxUOD-7YKPItDKV5GuQ,Camelo's Kebab,0,4,4.0,1,2592.886689674991,Asian
+wSvyt4MPFY_l6LU7hJoyBA,Qué Quieres,0,16,4.0,1,7130.111500438962,Latin
+SNpEZYxjI9gRcYO7WCqNtw,Casa do Filé,0,7,4.5,2,6300.96296698642,Type of Restaurant
+vobi91lFY_kERCdEUI0QUA,Pistache,0,7,4.0,2,7482.443659133536,Type of Restaurant
+r8KjL7ALQii2SvLMZ08Ztg,Casa Carandaí,0,8,4.5,2,4888.144526297587,Beverages
+jlmT6VTY49QLbnjO9iUDDw,Bar do Elias,0,2,4.0,1,5871.38917998723,Beverages
+ljHtiNlrRcIpn9jTO-uXCg,Balada Mix,0,7,3.5,2,6006.5213447569,Beverages
+1sM7vUUtsLu1ikmZU9mJGw,O Crack dos Galetos,0,7,5.0,1,8158.87533501101,Cuisine
+j9nWIsYldiyLoGgw7Hx_7Q,Na Brasa Colúmbia,0,5,4.0,2,4082.320481712553,Type of Restaurant
+bho3c3vKwm1ftjseruNI0g,Pizzaria Parmê,0,1,5.0,1,3756.482767165406,Type of Restaurant
+USvXT9hxAf5iCNZJTyuwMQ,Estrela do Sul,0,10,3.5,3,6061.908472330217,Type of Restaurant
+jEsGL0jkc5FXNo4ejkFVQQ,Bacalhau & Cia,0,1,5.0,1,4765.141745434819,European
+xjUTuBKxcdg_hWzHSlfqCQ,Yellow Submarine,0,3,4.0,1,8773.199063058539,Type of Restaurant
+a-5uEU2A-mN4NPxSU_oeTA,Pensão da Nonna,0,4,4.0,2,7975.070677082735,Type of Restaurant
+n32EbTA-N7v_hGXI2hPPkw,La Carmelita,0,5,4.0,1,7748.102535349271,Type of Restaurant
+8qu_aotp-geR2if-rR6ivA,Aquarela,0,1,5.0,1,7110.662659249693,Type of Restaurant
+AmCGj-NIxU5PPUBIPNN3xQ,Bar da Fatinha,0,1,5.0,1,6811.3199165854085,Brazilian
+ZmjIrGgM4HezOEo-ixjVdQ,Restaurante Garagem 60,0,1,5.0,1,6497.767597008141,Brazilian
+Ly4V3ygJllVRt5S-jow1QA,Restaurante Galeto Castelo,0,1,5.0,2,8978.334653339334,Type of Restaurant
+b0hQ00rNjLw_86eEYKqlSA,Assis Garrafaria,0,4,4.0,2,5989.927882538893,Beverages
+cxxcpzBsPmHq6h8zpK-p_g,Rota 66,0,23,3.5,2,2590.1983541699847,Latin
+MK273hLK6nf4Ty0ae6SLwQ,Rosty,0,11,4.0,2,8250.040430426034,Type of Restaurant
+eXbcorbX7Yra1JPIJadpgw,Da Cozinha Café,0,2,5.0,1,5735.5156889027485,European
+5Vgjdf9yNVNjVACNYjoLEQ,Da Roberta,0,7,3.5,2,5879.138399346417,Snack
+HMvpYkBm5WoQAY7PBoCTbw,Filet e Folhas,0,7,4.0,2,8619.350453336403,Brazilian
+D2l9e8FvBUO8r3NyMq3s2A,Vokos Grego,0,1,5.0,1,6238.18514313718,Asian
+netyJgsVkUGstqQVtn_hIw,Churrascaria Estrela do Sul,0,11,4.0,3,2739.5203946313086,Type of Restaurant
+KDp6aLpIwtxfZLpQYv-Bbg,Restaurante OJO,0,1,5.0,1,6192.416393441316,Type of Restaurant
+6vmbYQcnwpskXL85urtjpg,La Trattoria,0,32,4.0,2,8482.883772265388,European
+mOgTojb1ZtlAZqI085odRQ,Felisberto,0,1,5.0,1,7710.279094401777,Brazilian
+ZZ3xrBlqKgeCfibUztbzLw,Ex-Touro,0,4,5.0,1,4768.73986691396,Snack
+71bv6EGb6wF4uYlp2RdNog,Da Silva,0,1,4.0,1,1111.8435181583498,European
+boQvbuL9zNQXTEIOBsaJtA,Bistrô Les Amis,0,1,5.0,1,6721.55909553947,European
+bkR9LfRvb2MwWb2ov1IIqA,Bistrô 316,0,1,5.0,1,7333.792552359795,European
+9YIaYHfiuIbFSITxiQ9WWA,Ekko's,0,8,4.0,2,7254.060413648735,Brazilian
+QcYF6xkUvmnCneJ3ohWN3A,Beco da Fome,0,1,5.0,1,8757.88240736874,Beverages
+rcjvM-Bs1C96ywrQV8JNgA,Severyna Ponto Como,0,12,4.0,2,7917.489113015607,Brazilian
+awbtw3u6rvLT7EylQRjepg,Matsuda,0,3,4.5,2,7443.413069089891,Type of Restaurant
+6Hmb9i7gAgbI6jMAX4RBMg,Restaurante VAMO,0,4,3.0,3,9392.787772450514,Type of Restaurant
+O9_IXFk3VjNTU4QXb1ewAg,O Caranguejo Restaurante,0,22,4.5,3,7899.133952535847,Fish
+5jYl32Fmy_EgXiJfTr58PA,Mee,0,23,4.0,4,8538.123804998726,Fish
+OZ5DrwSD6NyZuwQONXUyOw,Bar Bracarense,0,22,4.5,2,6455.0280662300265,Brazilian
+OxetVmWSSPa3cGW9bObPEQ,Rolé,0,13,4.0,1,7913.202513608139,Fitness
+_9AsdNA3bWOpZYZs-CUggw,Taj Mahal Restaurante,0,9,3.0,1,5093.997837274914,Asian
+C_5P2UOxRzR2cT3sVZsD-g,Benza!,0,2,5.0,2,8602.198570476674,Desserts
+xsFiUkADdV7ThPXzZ-6gIw,Grégora Arte Café,0,1,4.0,2,8006.444012619487,Beverages
+QgOnILLi5u9WiTBKrhGvxA,Manoel & Juaquim,0,10,4.5,2,7741.742625843663,Brazilian
+STqy3jyAmqpTxBeAtlKuUw,Empório Jardim,0,15,4.5,2,4989.583378487579,Desserts
+CxzsQqRqyi9ySKntwd4nNQ,Páru Inkas Sushi & Grill,0,4,4.0,2,6942.057243620394,Fish
+MoQpZ6rXfGi5ncUFPr6nhQ,Cavist,0,1,5.0,1,9741.827881432746,Type of Restaurant
+dtIMmqypKy-Gy__l0AyPaw,Espetto Carioca,0,3,3.5,2,8597.764410780885,Brazilian
+7GN0GS_TqDEIGtWcTLZIMw,Bar Sobe,0,22,4.5,2,4522.673787023229,Type of Restaurant
+w17-LxsRCgqH0AkZqWYj9g,Guy Restaurante,0,3,3.5,1,6274.735980407291,European
+pxnr3YWhHfHlKkIHaxuTLw,Rústico,0,5,3.0,3,7124.483059870036,Brazilian
+0WibDT8AH5w7QV_WFgCjZA,Bazzar à Vins,0,32,4.0,3,7178.327771795838,Brazilian
+jFHOZEiSarWRSe9WRZalCA,Winehouse,0,4,4.5,1,7200.4862337334935,Type of Restaurant
+bxbdIEIiCzjmaEaujKyCGg,Majorica,0,21,4.5,3,8006.895415132645,Type of Restaurant
+pD3k54IWByDGIFUari9Ygw,Sapori della Toscana,0,1,5.0,1,11406.783195933624,Type of Restaurant
+tZEaHBkSDhcc1iR0fgRWhQ,Bistrô Ouvidor,0,3,4.5,3,8769.434430107965,Desserts
+ngU_yYMXvX5-H71yu9339g,Chez L'ami Martin,0,3,4.0,1,6942.093071824098,European
+gmguus9drNeOZYCn8J5JRQ,Restaurante Fazenda Culinária,0,2,4.0,3,8988.972419977654,Brazilian
+VgDFLuJPtEcAcmjwjmnzTg,Carioca da Gema,0,30,4.0,2,7794.881177250942,Type of Restaurant
+gvoSbABynWEksVeqW6l0Pw,Fazenda Paradiso,0,1,5.0,1,7566.363979734801,Beverages
+Ln1gpNnca6JPJPKYuejmkA,Bar e Galeto 183,0,2,4.5,2,6852.2520073096375,Type of Restaurant
+TcPbQ9a-eaejnIgXoj8OvA,Gula Gula,0,3,3.5,2,7219.256105838057,Brazilian
+LGT2lQz5Z2seidasWOlkMw,Pulê Restaurante e Bar,0,5,5.0,1,8194.315304266811,Brazilian
+uaeh9us3EV6eSB8OZNmIbg,Nanquim,0,3,4.5,3,5013.548311700532,Brazilian
+wrHnPC6SzgEbD3NviRLxbw,Caffè Olé,0,1,5.0,2,8167.023474589203,European
+RCUTvyicStJGpqs_iKURvg,Oke Ka Baianatem,0,1,4.0,1,6901.868985723072,Brazilian
+GayZLOfDgOfftzRVu4RlJA,Mitsuo Japinha,0,9,4.5,3,7932.87422358669,Asian
+GaeB9s3mT5jbL1kUwFqKBA,Bar do Adão,0,8,4.5,1,1594.1969769130008,Beverages
+8v48hHrV1C1eV-ELbXGIxw,Japa Tijuca,0,4,4.0,1,1338.4550046845472,Asian
+OfvEvjHrkDcE8biCm65wNg,La Carioca Cevicheria,0,23,4.5,2,5670.819492458451,Latin
+rb51EtOSZeHj51oS7WeF6Q,Puro Sabor de Ipanema,0,1,5.0,1,7600.736608277769,Brazilian
+K9ZGAL26x3s-DiXFtyQNiA,Bar e Braseteria Bom Senso,0,2,3.5,2,1269.562024818486,Brazilian
+PI7svLnsoZVu2gMJ8ex-yQ,Bar do David,0,22,5.0,2,9267.959219423816,Beverages
+IL9PfkRjzIygXlhYcTeGEQ,Churrascaria Maracana,0,1,4.0,1,3448.1883264878747,Type of Restaurant
+6AvcoUaeEIyjchB-fwdyYA,Guacamole,0,33,3.5,2,5734.896114929159,Latin
+RSYsQIpuHfEXK2Ezsnpf0w,Espetto Carioca,0,1,5.0,1,9771.26665860452,Beverages
+vdqJYX7tHWEBlDlmVZHg8w,Restaurante Gibo Brambini,0,3,5.0,3,7257.95855729792,European
+aaLog903FaxK-GrN_eOPOQ,Oscar,0,4,4.0,3,6306.946611281362,European
+6-ynsDxnoBmkFx-3nbPbJQ,Monte Gordo,0,2,4.5,2,8359.791423726792,Type of Restaurant
+3_skpSoECBmuroWgccO0qQ,Mecenas Bistrô e Cultura,0,1,3.0,1,4970.321620073164,European
+-2KSQUFdZ5N0-3f9-0vkrw,Da Laje,0,9,5.0,1,6926.306808249677,Brazilian
+0qeAVbU5ciQKG9dPSdGTsg,O Rei do Bacalhau,0,4,5.0,2,6859.813019108648,Fish
+1fLNKiI1N3FZnCmA_3XT7Q,Gohan Alimentos Naturais,0,1,4.0,1,7987.574555881105,Type of Restaurant
+VxH4PUdo9BH3ph5ltorCdw,Quelight,0,1,5.0,1,5227.678994652934,Type of Restaurant
+RhJk50VtEChXZIFRCZzsBA,Salitre,0,9,4.0,3,6904.111502671213,Type of Restaurant
+KIp2FKBz0Mgrl2TYA64pdg,Restaurante e Bar Jeitoso,0,1,3.0,1,4761.020509152824,Type of Restaurant
+fG66VMfE39chcH2DU7kZiA,Alessandro & Frederico,0,6,4.0,2,6578.816960005223,Type of Restaurant
+LRu2-TzVewadOjd6WYu8nw,Culinare,0,1,4.0,1,7643.109357291661,Type of Restaurant
+WQVura4_J444w7Cz_8e-9g,Gaia Art & Café,0,20,4.5,2,9359.618527622331,Vegan
+a8rjtG9WWPVqdn3oCa_IMQ,U-53,0,1,4.0,1,7389.349192279005,European
+xLTlUhF9P8qrXpXDZlD1SQ,Cortiço Carioca,0,3,3.5,1,7997.729362596475,Brazilian
+kWeWg9quN7j14g7H9YJ8MA,Beco do Hamburguer,0,18,4.0,1,8776.065298589052,Snack
+Op25QJb3zleNYPxtTiPyPA,Brother's Burger,0,5,3.0,2,2408.565813706544,Snack
+boiaKZtzBfzv06SMD1_kKw,Rota 66,0,9,4.0,1,8244.590014853764,Cuisine
+lhuBDg-NxbyZJj9SV0qqeA,O Peixe Vivo,0,9,4.0,3,8161.40025276549,Fish
+yMLKjZSnJACPML9Jdu0-gA,Bom é na Brasa,0,1,5.0,1,4230.966747459721,Type of Restaurant
+ZpULa9KkQFVzEvcLDkTTBg,Barraca da Chiquita,0,7,4.5,2,5411.767940573631,Brazilian
+sGrzJpL9Dy7JfEmlkS7XxQ,Djalma Burger Bistrô,0,6,5.0,1,8166.321608525121,Snack
+sOJd05wGhgEHOF3eZTM4VA,Alloro al Miramar,0,2,4.5,1,8386.41704236384,European
+ajIb20rHoXLT6r-gLR3aQQ,Zona Zen,0,2,4.5,1,6399.630874967032,Brazilian
+-vUV_hAbOhlbHSKDTEwXaw,Salsa,0,1,4.0,1,5257.646392369921,Type of Restaurant
+IReht03PYK73K5qQpAxIRg,Cortés,0,7,4.5,3,6595.189415124552,Fish
+4PnKVKYKuNqSukI3cMP6zw,Caverna,0,23,4.0,2,7567.396750401222,Beverages
+lXkoXuF0QiLQCt0y26jQhA,Stalos,0,39,4.0,2,8088.221513732832,Beverages
+TYGQAbolHP8g157WIMY_9Q,Zissou,0,1,4.0,1,7288.182872285875,Asian
+06IIoeYbM7vHjtW3hM8hzA,O Camarão Arte Bia,0,2,4.5,2,2623.0737238098404,Fish
+y_K_02G-cPqhRqFB2_OyJw,Bergut,0,1,4.0,2,8338.18370429181,Beverages
+xuKVxsHwUSzXtp3rf_bbxg,Restaurante Chapéu de Couro,0,2,3.5,1,7843.875723625426,Type of Restaurant
+paHgMovBWnLLXmXI4P1suQ,Via 502,0,2,4.0,2,2010.3904875791184,Type of Restaurant
+V_eeTlkk5-lVyCiJ-2Si-g,Restaurante Broz,0,4,4.5,2,8711.720733606162,Type of Restaurant
+6qkwCywzxSHGXSCSXAADQQ,Guimas Restaurante,0,5,4.0,3,5192.885401640328,Type of Restaurant
+r0exrbqmF-m9E-mlnbMfjg,Petisco da Vila,0,4,3.5,1,2403.855433643408,Type of Restaurant
+8MnFh7-0GIuPAezzPFk3ZQ,Churrasquinhos Brasinha,0,2,3.5,1,4993.378237177288,Type of Restaurant
+LafwdEdNXDZpNTd5qrVizQ,La Nave,0,3,4.0,1,5565.655542127232,European
+6puGwQbIyIPxeXdbT5uLlg,Severyna de Laranjeiras,0,7,4.0,2,7368.95466745812,Type of Restaurant
+Qoi-N4A1cTYNRDBzgq8I9A,Plage Café,0,18,4.0,3,5190.379120397001,Snack
+qc8J_n5VhOw_59FXOjbN9A,Las Vegans,0,1,5.0,1,7565.191306178635,Beverages
+slFbIvIImO0r67lFP5Sv8g,Armazém Cardosão,0,4,4.5,1,6776.084233186547,Brazilian
+ObEmnp4TQSAJ5E_8knz2fg,Barsa,0,2,4.0,3,4720.759145121934,European
+k2ZO-OISpKDUmPJxPEB4aQ,Le Blond,0,1,5.0,1,6375.204172662619,European
+VjbFOdadOUtOS2YtEDelxg,La Mole,0,1,5.0,1,8885.099297942521,Type of Restaurant
+JvUAlYuTdy70hq3o0-Ac6w,Rancho Português,0,11,4.5,2,7138.188706863325,European
+B9NCbv99YpxEBmjOqrhiYA,Bar do Ernesto,0,3,3.5,2,8127.408696021992,Brazilian
+ITV9OzUgEkzeQTjnei8OuA,Sindicato do Arpoador,0,2,4.5,1,8621.525266806886,Brazilian
+dTZHeEWEhOozRkNQjvJlog,Papa Fina,0,3,5.0,2,7564.063608442047,Type of Restaurant
+4mvdUADbD6_05_wVcFITnw,Batata Mix,0,1,5.0,1,1252.95953760872,Snack
+AAmCWKJKet0MqoVJyeQPgA,Costello Forneria Premiata,0,5,4.0,1,5319.848171931534,Brazilian
+Qv61GPRJ_up-meLEFjRpug,Café do Alto,0,19,4.5,2,7159.075274027443,Beverages
+aSA56_cFGcbI2lZRJB0VCg,Azumi,0,30,4.0,4,8531.914401558228,Asian
+VnpwPSwpI3EES9vfJqBXww,Toca do Lobo,0,3,4.5,2,4798.411231356021,Beverages
+cA5BiokGUsSGoHxvCvQ9Yg,Dos Santos,0,2,4.5,2,6328.421827842743,Beverages
+iwL_lJ_4p6P81atG4bN3cg,Carretão,0,50,4.0,3,8263.820382003534,Type of Restaurant
+Jn1fmCkHTv5hc1kk_pf6VA,Galeto & Cia,0,7,4.5,2,8232.706887279051,Brazilian
+uqUPK3r8zdyk0rWRx1AXNA,Food Truck Mosteirinho,0,1,4.0,1,6012.515095357247,Snack
+PixYKznnNRFkg3a4RybLSg,Bacalhau do Rei,0,4,4.5,2,5334.90710650186,Type of Restaurant
+cH_NZtobxkqSWyAPGXCOsg,Restaurante Caçador,0,3,3.5,2,4192.507720305697,Type of Restaurant
+3h-Vwth07kWdbVVy0AaA-g,Mamma Rosa,0,13,4.0,2,6234.239459581134,Type of Restaurant
+hjPMPxHTXMGhG_XwUU8kFw,Botequim dos Amigos,0,1,5.0,1,7964.501643093208,Type of Restaurant
+O5bLbGyTkB8_jqmx2HdnHw,Trattoria Del Campo,0,1,5.0,1,5005.510999121133,European
+IXJEhNy6YmM4xY65_0WGZA,Deliciando Quitanda Gourmet,0,11,4.5,1,9517.782066736385,Type of Restaurant
+tOfMkufwzlFdUqCoFcqF9w,Org Bistrô,0,13,4.5,2,10204.545744148438,Vegan
+rOlvtps7JKjxYfTjNZbePA,Galeto do Leblon,0,6,4.5,2,6258.706257816461,Chicken
+beXCwGgHVdDrG3jJLd3iCw,Princesa da Tijuca,0,3,3.5,1,2634.521064620169,Type of Restaurant
+Klq38EBqm2pvK5_N67xvlw,Granola,0,1,5.0,1,7905.313663049966,Fitness
+X3Fzs5_ZRArB53oKzIMOyg,O Bom Galeto,0,6,3.0,1,7871.508267714874,Brazilian
+8GtLwXDAwK1ofMmpyp_zDQ,Beluga,0,6,4.0,1,6024.513987786818,Snack
+akZxLjb2lrDET_FLXyaRRA,Petit,0,4,4.5,1,7710.316655960404,Snack
+6CihQRJPkKqwFzRxLrYyUg,Eskilos Restaurante,0,3,3.5,1,4905.077100484164,Type of Restaurant
+BzPZs3n9JlTs00759HFVhA,CT Brasserie,0,4,4.5,3,12232.454857809476,European
+0Xl2Ia_6jcGUfFd5CpSoag,O Camarão Arte Bia,0,5,4.0,2,6014.964249126902,Fish
+sJS4u6dwas5TS9cBEZNc4A,La Bicyclette,0,42,4.0,2,5096.498587785441,Desserts
+spkERmHFG3yXLZHdlYv8xQ,Hanguk House,0,1,5.0,1,9723.94161001251,Asian
+fBZmmzUeIZpLlpZpngkL0w,Bar do Arnaudo,0,3,3.5,2,7276.998796410581,Brazilian
+TEXtdrC9AtZZEPV1BowqWg,Formidable,0,17,4.0,4,6262.492549853676,European
+Z_0uv1lPwQSiLGh6qwDG5Q,Braseiro do Sul Churrascaria,0,2,4.0,2,7080.033166829093,Type of Restaurant
+GKddMdtrKCBhFxhRdBCw7Q,Ginger Mamut,0,8,4.5,2,7816.931507075024,Type of Restaurant
+fjTofbOQ1sHbyOqTIyQ5oA,Príncipe de Mônaco,0,17,3.5,2,8205.957859123015,Brazilian
+WerCvlw_1j3mw3OIbfSKsQ,SAL,0,1,4.0,1,12285.814393131146,Brazilian
+Xtdn8tSQQT0ujPKmVYlosQ,Gávea Beach Club & Fun,0,1,4.0,1,7275.644376787398,Fish
+pt2SaiRdx-yORcEJ7QrBvA,Manekineko,0,1,5.0,1,5738.807366923571,Type of Restaurant
+DHcVL2xbqhnOVbQpgVQ00A,Naga,0,6,5.0,3,12315.113681432078,Fish
+gUbXGvk5ZQj9YeSk-lTMtA,Êtta,0,4,5.0,1,8020.774162276676,Beverages
+tT1C4XHmL7PsCYSUpDXSgg,Espaço Pura Vida,0,4,5.0,1,9529.094620238897,Vegan
+H4dww-cI9YLqGLTqe0daNA,Conexão Mandacarú,0,2,4.5,1,5582.065622109491,Type of Restaurant
+i5IN8uR2xShzPs2cfB5xJQ,Armazém 331,0,3,4.5,2,8457.583699672774,Beverages
+omvKYs2LMV_TgPs3R9kGfA,La Mole,0,5,3.0,1,5979.923979241427,Brazilian
+6y4k72we_8VpRT7puKfOoQ,Cantina do Gaúcho,0,2,4.5,1,5629.258078470989,Fish
+nSNWhPAgdMNG2kn6h4eHTw,Gutessen,0,3,4.5,2,6469.629554427521,Cuisine
+7Y9Z2v8gWu-WGC_9r7VO1g,Estrelas da Babilônia,0,12,4.5,1,8917.3729391004,Beverages
+rrqFWjrf0iufJf2gFPif5g,Alqui Sushi & Steak House,0,8,3.0,1,5243.96886950237,Asian
+NjQJjzYGh7Xm06uhbrtlXg,Delírio Tropical,0,2,4.5,1,8514.399832219617,Fitness
+jzT4RrLBdltgHUm5w5GX9Q,Steak Me,0,4,5.0,1,5888.477900524753,Type of Restaurant
+RBQUMXDbQBIUvG_zTjPesQ,Panetto Esperienza,0,1,5.0,1,5068.572986864083,European
+8fri0ap9GTPWskGdqhWsWg,Zaza Café,0,1,5.0,1,6584.087192471508,Beverages
+QDZtMUW1KLOYqJMtzKeNvA,Botequim Raízes,0,1,5.0,2,4119.4767944465,Beverages
+kYPJ7jQ43CHUzhtSGwAxAA,Birreria Escondido,0,14,4.0,2,7535.272667874789,Type of Restaurant
+o5IVZSN7S_-9VTHlP2cnNg,Canastra,0,15,4.0,2,8115.317324133374,Beverages
+ujqkmhsp437MROmeMd8Piw,Salomé Bistrô,0,5,4.0,1,9014.162123692056,Type of Restaurant
+Lf7QY0Pj53yLgXG66-yVkw,Espaço Gastronômico Sorocaba,0,3,3.5,2,7006.506802117395,Type of Restaurant
+9F_iLbcvPZjvP85HrKkxKQ,Capricciosa,0,18,4.0,2,7598.57636347223,Type of Restaurant
+1JAI8XiUE6gTQPFIe4wXRA,Bar Vilarejo,0,1,4.0,1,2501.457032177086,Fitness
+ZOScFZJMaS4ZEG51T3sHBQ,Fasano al Mare,0,13,4.0,4,8375.295999335889,Fish
+1got_ZlSi0nOmopAYbcCGw,Majestade,0,4,3.0,2,9359.984082236258,Type of Restaurant
+JSZw5r3Gqtaa3YTL7BWqnw,Batata Inglesa,0,1,2.0,1,2382.704400385683,Snack
+8D0JHqQYVcHlPC8h_RaISA,O Forno Rio,0,2,4.5,2,7594.887098981616,Type of Restaurant
+Ugq91ChOlkcUGjoS0Vffqg,Restaurante Demi-Glace,0,5,4.5,3,7797.373941683521,Cuisine
+qvDnh8LJ8UcO8ahFLj7X_A,Quintal Carioca,0,1,4.0,2,7804.42028861102,Type of Restaurant
+YvEJMaz-Gfme6Rubdph6wA,Manekineko,0,3,4.5,4,6007.610096391063,Asian
+G7iiqejpfjjr59aLDutq_w,Joaquina Bar & Restaurante,0,22,4.0,2,6392.09623246745,Brazilian
+fMeokfpWYFX9NOjVGbvJuQ,Dom Manuel,0,1,4.0,1,1613.6592713441455,Type of Restaurant
+IfBOig8jYmhZokUWZoqI1w,São Bartolomeu,0,1,5.0,2,4701.551245420336,Type of Restaurant
+9-ahX6s58tki57LfeSFzCg,Restaurante Escondidinho,0,1,5.0,1,8812.812512082042,Brazilian
+GJALna4iobK1dMv0KIB1mA,Estação Gourmet,0,1,4.0,1,7628.944524697153,Type of Restaurant
+H23qCNP5QphPkiZnyDkDIA,La Maison,0,15,4.0,2,8244.706880403663,Brazilian
+VsHZyB1zGY0GNj8jnUQXFg,Le Bistrot du Cuisinier,0,1,4.0,1,6950.269521457318,European
+VXhr26v8Dbp_aco-0c8biA,Linox Restaurante,0,3,4.0,1,8377.790708584876,Type of Restaurant
+ZH28fyiU2B5Adpt-9aNIbA,Bourn Burger,0,2,3.5,2,7709.848568243015,Snack
+uJuTblcLXkHCeoGdk44anw,Hell's Burguer,0,44,3.5,2,7393.951481016121,Snack
+uvWeQyHisjg_Gq4bSSDptg,Manchete,0,2,4.0,1,5836.919718224463,Beverages
+ou7Satyei45UWyM3x5Ek4Q,Pappa Jack,0,3,4.0,3,7993.210652891302,Type of Restaurant
+lLPDP_Qo6SIbMkLwwdHcNg,Prima Bruschetteria,0,18,4.0,2,6380.878850418194,European
+VDaYjX5BWFya4tAobvRydQ,Adega do Pimenta,0,6,4.0,2,7296.858426970713,Beverages
+79HsNf81k01j4NOY8IYxLg,Boisucesso,0,2,3.0,1,7935.0227092367295,European
+c4iBX6eJhEIdJ3Xxw0KJDw,Jangadão Pizza & Grill,0,3,3.5,1,5469.239048790416,Type of Restaurant
+JIHV3okQexAj3Xk2dewV0g,Tchêjuca,0,1,4.0,2,4253.116368916788,Snack
+2udrTif9GI_0ZNOpiOP76g,Assador Rio's,0,9,4.0,1,8715.586658606115,Type of Restaurant
+bKIdHBD6wOJrFTAIJsi_7g,A Comilança,0,3,4.5,2,8737.279013959804,Brazilian
+QlgESY3Lw6CqW_-RzldVaA,Pizzaria do Chico,0,11,4.5,1,7652.829178991983,Type of Restaurant
+ygvlv4jAKUIt8J5O5Baaug,Bar Peixe & Cia,0,4,5.0,1,7292.463899029396,Fish
+PYqcj58eZv1QyN5D63OaZA,Subway,0,2,4.0,1,4902.988061217365,Snack
+VzW_U5UZuEPj1-BSzZHYnA,Love Arte & Vinhos,0,1,3.0,1,2359.8492934431547,Beverages
+AaZ9VLnS_tkeHvjdSX3eXg,Cedro do Líbano,0,7,4.5,2,7742.892590834873,Asian
+GZOfQj6SMeow3exGQylybA,Os Ximenes,0,12,4.0,1,8024.72972737002,Brazilian
+KZEMeuWVRxJRYWn09jQ7rw,La Panetteria,0,1,4.0,1,1086.1845646509412,Desserts
+SPVhJZgpDoKTtw9vm0rxpg,Frango Chic,0,1,4.0,1,5740.336864076221,Beverages
+OVVnW83k7Ga_KV5NPMqBsA,Rainha,0,1,5.0,3,8612.483715539356,Brazilian
+z4v8lMA_BPN_eDnQxPv6JQ,Restaurante Siri da Freguesia,0,3,4.5,1,8790.2376903138,Type of Restaurant
+tkBdAZ86Dbcrf-nrZyLY5Q,Seu Vidal,0,5,4.5,2,8532.423905763017,Snack
+wLhoRzRMRFMYk9mtenTyPA,Restaurante Rio Master,0,1,4.0,2,4732.380051624763,Type of Restaurant
+HOhnlsJbK-7DT7Ci0IFiUQ,Venga!,0,19,4.0,3,8531.653534143818,Type of Restaurant
+nOXEB8rREE_ZgNSmG8KtyA,Big Nectar,0,4,3.5,1,1534.8961198753962,Type of Restaurant
+0QmVZBbrzQuUi66Wx-4COQ,Billy the Grill,0,1,5.0,1,4408.431198598347,Type of Restaurant
+sxUVVRI0iX3NC-tpuHDbUw,Charbon Rouge,0,2,3.5,1,6418.73824203379,European
+7DDQU2LQz-43CGkRlT88gA,Caldo Beleza,0,3,5.0,1,7930.179182283,Snack
+SXznvRchfyelxnRIm6cexA,Stambul Comida Árabe,0,12,3.5,2,8158.136696873489,European
+oUlFvbdwpHgb1dkEHZBGUQ,Grand Cru,0,4,4.0,2,7626.402545726831,European
+fGJjcN7qyBLjH8RHKYzKHg,Botequim Casual,0,2,4.5,1,8888.632508018429,European
+2Ogt0LGfeOvBQhmGUL1c9Q,Restaurante Sírio e Libânes,0,5,4.0,2,7769.659618997196,Asian
+GC9p24sOJTiXT6yucbYUsg,Demas & Divas,0,9,4.0,2,12706.07776776268,Type of Restaurant
+dyJsMP20FBazdPqdsDZWHg,Comedere,0,2,3.0,1,5191.083320255757,Brazilian
+vkLp_UJZtBtwtq-d_vnOVg,Pobre Juan,0,23,4.0,4,12124.750917160502,Latin
+L9VJ5-fmdVpgOFAS79Jfag,Bier en Cultuur,0,4,4.5,3,7328.445097160408,Beverages
+FqVl7lhqxMF3rKFUuv2G1A,O Nosso Churrasqueto,0,2,4.0,2,2122.018752484839,Brazilian
+6Ro8Lhkb8neDJRYKjOVl8Q,Podrão do Campo de São Cristóvão,0,2,3.0,1,5439.795500691727,Snack
+UlgfpEyKILcSFWU0dnIskw,Alecrim,0,1,4.0,2,4094.318290154468,Type of Restaurant
+cdSNuPK3-hXvFmMyMhvRMQ,La Fiorentina,0,16,4.0,3,9404.648670524211,Brazilian
+wXDuKg6VEgojuW1tGfc0PA,China in Box,0,3,4.5,1,4868.407315456974,Asian
+q7qNTsuk0ZuH086WZd61FQ,Da Silva,0,6,3.5,2,8687.046230486327,Type of Restaurant
+1wDti3qCI7XITnSXZcXI8A,Papa Gui,0,1,4.0,1,5281.388097476855,Type of Restaurant
+7cqwKb_TQFzOrFmsq8tLJA,Corrientes 348,0,3,1.5,1,8649.96578509857,Latin
+a_gjfDnBkdEhAgT_gYGnXw,O Armazém,0,1,4.0,1,8260.861212756972,Type of Restaurant
+AB3V1RXA1huNPggjxBGTiQ,Jappa,0,10,4.0,2,7878.544100125277,Fish
+rWU6c3gGigg62Sx4DyyIZw,Restaurante e Bar Siroco,0,3,4.5,1,3367.180059714574,Type of Restaurant
+5Ln1O-vc43AuUK_-YrYgsQ,Café da Fábrica,0,1,2.0,1,6407.192446006663,Beverages
+Ad4izea30-6VLvsuHVKSPA,Terraço,0,1,4.0,3,8727.04949287539,Brazilian
+VH67EzSJiL-bNpMg3ow-Bw,Mega Matte,0,2,3.5,1,4481.510912261929,Beverages
+iXXwE1txza4c9puLNfj0gA,Parmê,0,5,4.0,2,4216.922948443955,Type of Restaurant
+mOd6MjndUBuMvo40RTHxrA,Restaurante Sentaí,0,1,5.0,1,7580.084994200631,Type of Restaurant
+x4NKOMDUIUq-1KAbXy3SUA,Restaurante da Vinci,0,8,3.0,2,3550.419674730096,Brazilian
+4B6M-vFpdYVyBH_WvP2EIQ,Skinna Restaurante,0,9,5.0,3,9784.392334121896,Fish
+9Bfl6-iiSiSyFg3Wdc0qDA,Symposium Bistrô,0,1,4.0,2,7424.384081184336,Beverages
+X5FqosAZBYtdTaiQ5B4LRQ,Epifania,0,8,4.5,2,7329.355898391735,Fish
+1nrf7IXcQ21tjWg94RJLtA,Art A La Cart,0,1,4.0,1,9173.670692550471,Type of Restaurant
+07C0YGH-OcEL1ca3PdGmAg,La Mole,0,3,3.5,2,1601.4382996795837,Type of Restaurant
+HXATs6JTS4k-zEfg987Jcw,Couve Flor,0,1,5.0,2,8567.534373884682,Brazilian
+rB39ChkCe_TmPpwYKtWqsQ,Las Papas,0,2,3.5,1,7528.575563686159,Snack
+G-AXadOlrZiMGA-6_eVtsg,Famous Burger,0,4,4.0,1,7996.652532922149,Snack
+X98Uw7Vt4ALuBszwNONd8g,Restaurante Transa,0,3,3.5,1,4542.722234658449,Type of Restaurant
+uysh06yzCY2ayYtf3aDvAQ,Grillet,0,1,4.0,1,6592.984868249546,Type of Restaurant
+gL7UNoGqbDStJfK4J9u8vw,Trailler do Chico,0,1,5.0,1,7549.193488395252,Type of Restaurant
+7T5BJtqmvjNthqIlCccf2A,Botequim Vaca Atolada,0,5,4.0,2,7714.422578457194,Beverages
+g2ILVxWf1JA7doKrcAxkFQ,Simon Boccanegra,0,5,4.0,1,8244.163649833565,European
+BVTKK9mcyrwup66Bj5ytIg,Montteros Restaurante,0,7,4.0,1,8405.920947678505,Type of Restaurant
+9pCEntCUnXa3MjW1MBZrxw,Venga,0,34,4.0,2,7119.833691234985,European
+5lKnqsLbOhyfY9umBwKP_w,Zee Champanheria,0,4,5.0,3,6136.732976818949,Champagne Bars
+gZor_2bZIc1nzc46qNrRsQ,Tacos and Wraps,0,10,3.0,2,7572.930993751167,Latin
+aH7xv89nvJZwIRj9M13dig,Bio Carioca,0,21,4.0,2,8161.573944873957,Vegan
+OqC-dZn8FR7RFeMNBps5KQ,Mauá,0,1,2.0,3,6052.722622430644,Brazilian
+jPs1nM20lxrq9aSil1HLKw,Galeto Brazão,0,2,4.0,1,2826.033136069803,Brazilian
+ax60uuiBTsDPg5Br4wVopA,Canto d'Alice,0,1,5.0,1,6479.487238514664,Brazilian
+6nsq6ISDAXck7HkiGFMziQ,Bráz Pizzaria,0,13,4.5,3,10470.89548723464,Type of Restaurant
+KaeeuBHs3rpusC7De8J2Fg,Reino Vegetal,0,3,4.5,1,7854.182272100378,Type of Restaurant
+WiD_qx4M1Y2C7XxfI-hVzA,À Mineira Norte Shopping,0,4,2.5,2,5997.51252299572,Brazilian
+8D_cFNqG_HDfVWSb_kUctQ,Jack Salada,0,3,4.5,2,8766.619279240473,Fitness
+uqjJ4EbivqrY4SH6ys2tgw,Portella,0,9,3.5,2,7145.378207909457,Brazilian
+n-v2hCmg_YWv7DE_jKF0CQ,Lopes,0,10,4.0,2,8580.82717181086,Beverages
+G-05rXSdh_XtnQ6tQEFKYA,Camelo,0,1,5.0,3,6965.665514382725,Type of Restaurant
+IgfTg5uLT0sLYvbrF6ANvQ,Feyzi,0,1,3.0,2,8222.522912115513,Asian
+YggnIi2ETSnfpfYVSMha0Q,Botero em Pé,0,2,4.5,2,8583.991524379657,Cuisine
+KXaggp74cOroM-EnEaRnSw,Bar da Frente,0,7,4.0,2,4637.145805281914,Beverages
+hW8OMgXvMpiYHT8xwoUi2Q,Chácara Vegana,0,1,4.0,1,6790.324153167796,Vegan
+RPzGIoRay5CzmhmmtDYQow,Da Casa da Táta,0,7,4.5,1,5388.711409095095,Desserts
+QfBljMhUCU1yj9vJh84IOg,Pipo Restaurante,0,2,4.0,1,6953.986564560606,Snack
+1B2fftVex-Q3ijDsfhJucw,Cozinha Artagão,0,6,4.0,3,12887.764730672983,Brazilian
+AP-YUGIqcCxqOgKGLG_9aA,La Sagrada Família,0,9,4.0,3,8645.943488495552,Type of Restaurant
+_R56Aoft2pTk1RdWUivw8Q,Serpentina,0,1,4.0,1,8038.182150450512,Beverages
+EwuA0s5GwtVEUbzkp_-VsQ,SoHo,0,4,4.0,1,6744.228123454192,Beverages
+Jhhyejvm9joezcTFXvsOzw,Dois em Cena,0,14,4.5,2,8380.531667656292,Type of Restaurant
+JgA9tZv1SoWhY6-TCBdx6Q,Baalbek,0,9,4.5,1,8046.692900144037,Asian
+vifGCNtkzploPNdgdTjW9Q,Bistrô da Ponte,0,1,4.0,1,5107.493907571211,Type of Restaurant
+KuIBm61ExBvIYBeaWxRz7w,Taberna da Glória,0,2,4.0,2,8149.724626643665,Type of Restaurant
+Ar83wzIV3cq8LQhea8jJZA,Restaurante Via Farani,0,7,3.5,2,7550.33947583405,Type of Restaurant
+TODVYr7FsXcj3KdQG8Ge_A,Che Boludo Empanaderia,0,2,4.5,1,5267.099766409161,Snack
+ysipHIdra8GM0vGrCKgVHQ,LapaMaki,0,11,4.5,3,7721.974337901476,Asian
+N-fnX_s_NYzxM6_PacJK8w,Dell'Arco,0,1,3.0,1,5005.930700380665,Type of Restaurant
+7eBzVvMq-AhZ9BCYcOgBpA,Costelão do Centro,0,2,4.0,2,8379.02779419319,Brazilian
+g6CutY7xi3OAqVv0mhN1iA,HOB Hamburgueria,0,2,4.5,1,6894.355015545492,Snack
+nfa4MeaHXWJwjVjGZi2jVQ,Mensateria Restaurante,0,2,5.0,1,10560.012162268797,Type of Restaurant
+HmqXsdv_CZBYU_4tgUjLbw,Mr Trip Rock Bar,0,2,4.0,1,7780.248159749492,Beverages
+5rhasDPu97i2nMIORYHVwA,Brasserie Rosário,0,6,3.5,2,8877.729070941909,European
+2KXTIh0IleltMjN0KrhANA,Bar Brasil,0,10,4.5,2,7802.997425046206,European
+-mawErFqluZRnfAihTPheA,Sabor do Árabe,0,3,4.5,1,5782.453170149665,Asian
+gCisIzSAEWGTiH0tS1zxOQ,Gula Mix Café & Bar,0,1,5.0,1,7231.335957923212,Beverages
+6jGcCSYySrdwSs5MjQcf-g,Roberta Sudbrack,0,6,3.5,1,5151.574856466389,Brazilian
+5auxjUIwpNztfbHakMU_rg,I Piatti,0,21,4.0,3,6634.344875279502,Asian
+JjjshevKkE-rWPpUeXF_7Q,Anna Ristorante,0,2,4.0,3,6877.363913708951,European
+d7nIUaHYId_DioYtu8KxRg,Bagatelle,0,6,2.5,1,5390.305891589774,European
+eewiUyJcMqPJnH07NaxoKQ,Intihuasi,0,8,3.5,3,8082.195622842528,Latin
+eyAEFFh3P1lrdataoG2b-Q,Verde Vício,0,3,4.5,1,8707.848287105964,Type of Restaurant
+FTaTVJBM3YjnLRaVipQGhQ,RIBA,0,1,5.0,1,10409.615959394156,Snack
+MLDhLy-Jjf31xVlwHR2Pvw,Bar e Restaurante Reencontro,0,2,3.5,2,3717.441888588073,Type of Restaurant
+GgMxbjjE4ynsV6TIOSJODQ,Gargalo Na Brasa,0,5,4.0,2,7694.676808905548,Type of Restaurant
+HnqJSuGtWMGupswwkuTa9Q,Flambée,0,3,4.5,2,10264.048235574795,European
+dqMy8b1MXWJ0RyYX9xSu0Q,Emporium Pax,0,1,4.0,2,7500.29588573767,Type of Restaurant
+FYec9rKRJt57WzhvI7serw,Italian Comfort BBQ,0,1,5.0,1,8741.689045594112,European
+SpNElMcVXy1Cy2REXLruaQ,O Rei do Cabrito,0,1,4.0,1,7817.457603117133,European
+FMeT8SGSN_TSSXq4rO293w,Caçarola Carioca,0,1,3.0,1,3145.4924343896123,Brazilian
+vp8YfD9u-6ThvqBYdAmEfw,Tasca do Edgar,0,2,3.5,1,6602.92883664715,Type of Restaurant
+zycIp_TqOFazLeyAI4eizg,Broz,0,21,4.0,2,7809.192066136131,Type of Restaurant
+4JPMoxWebVt8mEuf_tvjOw,Restaurante Center China,0,5,3.5,3,2657.245464037435,Asian
+vUHGw75Osp75NI3akmMESQ,La Mole,0,6,3.5,2,7933.162698806078,European
+oJMU_iCwkClDc3HCNJ1FnA,Fratelle's,0,1,3.0,1,4768.41778790443,Type of Restaurant
+m7JP7PWx56HYw58B_xK4sg,Das Chefs Restaurante,0,1,5.0,1,8100.246356563475,Vegan
+8pDEdNKr6Fo-rBL9fWobcQ,Brasileirinho,0,1,4.0,1,7802.274127940124,Brazilian
+Z40NQP6s4GVVOFvxFsaYAA,Bagatelle,0,1,5.0,1,8148.973492002018,Type of Restaurant
+xfXhBatIg-tcYo0diDrZWg,Sushi Lounge,0,2,4.0,3,2671.415109605217,Fish
+GefPkrIwqt9IuUGPUmWb9g,Filet e Folhas,0,12,4.0,2,8630.794838252,Brazilian
+h-NUzRFrQqFgOaVXwu2uDg,Restaurante do Instituto de Economia da UFRJ,0,1,4.0,1,8453.481126083654,Brazilian
+nA6X7rCAUpj_ZEN4cJqD3g,Estação Toledo,0,2,3.5,1,9130.357999299267,Brazilian
+YwiV_oSmYK59lSgL-DQXRA,Os Imortais,0,9,4.0,2,8619.202715621863,Brazilian
+CgCOO9our5e9A5-vO3RGLA,Gula Gula,0,4,3.5,3,5727.043875244232,Type of Restaurant
+sfmv3mRZkQmNTFAO7c_dJA,Mestre Sala,0,1,4.0,1,5005.439623711099,Beverages
+NGRZ2CM-lfye9R652tru5w,Strada Pizza & Grill,0,1,4.0,1,2356.9205626989806,Type of Restaurant
+l6RhyuYP4afGlh9GWeAXtA,Serdani,0,4,3.5,1,8285.391382224852,Brazilian
+mCoF0-CVWeDGc5gZXG4aTQ,Bar do Cícero,0,8,4.5,2,9264.324943556396,Beverages
+a2e8eodjtPoNoy0j_gm5Dw,Bar do Lado,0,12,4.5,2,6686.737532090708,Beverages
+_44z-SR1Age7EASL2PX6ig,Evandro's Restaurante,0,2,4.5,4,5435.123705709257,Fish
+LUtAXXFZeQNP_D1ZIiGljQ,Delírio Tropical,0,5,4.0,1,8579.988068149853,Brazilian
+Lo4BoxKV8WXXapc5vxN8EQ,O Forno Pizzaria,0,1,4.0,1,4656.569062804158,Type of Restaurant
+d1OYCr_8yzClptZppOjUQw,Galitos Grill,0,19,4.0,2,7859.424288916435,Brazilian
+7_wp9DhuFCVrYLrIJRI18A,Gero,0,8,3.5,4,6956.337951044662,European
+Rsml-fdja3vKqk1lIOV4QA,Bistrô Mesamis,0,2,5.0,1,11796.648050972846,Type of Restaurant
+rMld239aL9YBab55dAQLlQ,Botequim Informal,0,4,4.0,2,5915.444660200908,Beverages
+Ym_yzJhUQHkqq8EbUF95WA,Natu Sucos,0,1,5.0,1,9343.663049928333,Brazilian
+95o0eJYPS4YjSrXNlQO-4A,Rio Park Lanches Bar,0,2,5.0,1,8392.582954104544,Type of Restaurant
+CVF9Y_js4Kds1isCcAnwkw,Balada Mix,0,6,3.5,2,6398.438060761618,Brazilian
+JHUPtnl8WLr0ijp1BDDu_Q,Osbar,0,5,5.0,2,8731.3052254528,Beverages
+VvVlkdKHkcbZoloZGx3URg,Restaurante Nativo,0,4,4.5,2,10805.46019571824,Brazilian
+euY-y2ZQrUulbXHDPpleAQ,Pizzaria Caravelle,0,10,4.5,2,8145.676426017242,Type of Restaurant
+X1Eivw85EyH-2v6YPhhQyg,Chapéu de Couro,0,1,4.0,1,4658.776016630948,Brazilian
+sYOc6B0LB6dzwBgim3fVQw,Brasinha Ipanema Galeto,0,5,3.5,1,8279.318129240903,Type of Restaurant
+A4ND5jJIZRyWita_8rwjRg,Regional Grill,0,1,4.0,1,4290.377465891009,Brazilian
+vlQnAZdJWcV4GmP7pYfZVQ,Café Épico,0,1,5.0,2,7509.487062326478,Beverages
+jUxHXL_IRZJmnc8qDsm0sQ,Pavelka,0,5,3.5,2,8384.639373146885,Type of Restaurant
+d2tv_XQ-L4tRCeTsUvw81g,Balada Mix,0,5,4.0,3,7903.98182198521,Brazilian
+WAci6T9EzEVYDHEj3OSNYw,Improviso,0,2,4.0,2,7872.158469993578,Beverages
+pfdnBMVVdIYzr0UibFJIFQ,Churrascaria Carretão,0,75,4.0,3,8012.528330048011,Type of Restaurant
+1K0cGGpDN_jchclL8VIUJw,Bar do Tino,0,2,4.0,2,5230.647384226614,Chicken
+7oSuwn7BLZeW2qLCBdgrWA,Mr. Chan Express,0,5,4.0,1,8419.399275508204,Asian
+0bEV89kjqqueipYLixaIyQ,Arpô Restobar,0,1,4.0,1,8724.782593971517,Brazilian
+j1RXScsIYsgJ56E1u8VcGA,Casa do Bacalhau,0,6,4.0,2,4766.813214642202,European
+MYDnfmYABKRws8kDNlto1w,Ming Ye Restaurante,0,1,4.0,1,4982.184155374296,Asian
+t-Nx1JhLF0yWZcPLftnkwQ,L'Entrecote de Paris,0,7,4.0,3,12796.7992075006,European
+Lh5BicwBGXJ8-d8wBvImQg,Churrasquinho do PQD,0,4,4.0,1,10127.464152031396,Brazilian
+WppPEkeKfBoRtdY5HQ_Sfg,Nordestino Carioca,0,1,4.0,1,9116.521279478937,Brazilian
+fWN7IvjEDsXxaMocjmvCaA,Confeitaria Colombo,0,33,3.0,2,9000.115136765362,Beverages
+kBGTB54PAMHhEqq_0zSDsg,Ráscal,0,3,4.5,2,6582.461428340997,European
+Ecwm-kjkVpTpQ_g6BYGrDw,Berg Burger,0,2,3.0,1,8292.274470892899,Snack
+Q9fzmZ9bPL8azdMHmaJNLQ,Casa Paladino,0,6,4.0,2,8302.154291175128,Type of Restaurant
+5Xh-9j_m3mRalf6AJ7bNjQ,Japaway,0,1,4.0,1,5415.782811903423,Asian
+HcqPADOJuech5Lka1ck0tQ,Clássico Beach Club Urca,0,3,4.5,2,10212.4800430356,Snack
+wEfy4tE_xudWJ_4BZg6lMA,Mexido Gastrô,0,1,5.0,1,4808.2702785165175,Brazilian
+dQPPvG882JkwObdm26aJ7A,Pizza Part,0,1,5.0,1,4214.4792697064295,Type of Restaurant
+QUVtsovYIfzC1uXIWDgC0Q,Samba Caffè,0,1,4.0,2,8901.07061522077,Type of Restaurant
+oTEZi5IH339Yhp4WQcio1Q,Nori Cozinha Oriental,0,3,4.5,2,6534.344187242859,Type of Restaurant
+cWugSzxaWpAPe5ZUQdKEnA,Bistrô  The Line,0,4,4.0,2,9326.854452617134,European
+xopYrLm6Gfm2LBeS_t93Xg,Japa B,0,6,4.0,3,5083.189089072649,Asian
+a7BOpvI1zbJy1WZbexaLNg,Lapamaki Ipanema,0,9,4.5,3,7631.829757247002,Asian
+FHvx-NeDSNZ9BFimLzoIUg,Angu do Gomes,0,10,3.5,2,8311.352591051074,Brazilian
+wBQBlJgWwZtBF992CctGkQ,Paris 6,0,33,3.0,3,10056.453332925812,European
+UJXMRkHBpZ4TXs5dwztACA,Restaurante e Cafeteria Baroa,0,3,4.5,2,8675.247724147019,Type of Restaurant
+3NpNBekVij03IX3wcZwqIA,Cervantes,0,3,4.5,2,12331.407908983152,Brazilian
+fb8AiACKQCj3MoCVJqBtcQ,Bar Araponga,0,1,4.0,1,7877.42088158438,Brazilian
+YE0ru02y0b0_qDqpd14ecw,Verano Restaurante,0,4,3.5,2,7251.925523698424,Type of Restaurant
+rMKc4Z6mbzvhOrQ6QZZNvw,Atlantico,0,1,4.0,3,10130.031120233696,Beverages
+hSCqZbbZCTJ6oEtCCjVYPg,Casa Graviola,0,3,4.5,1,6331.250307791302,Snack
+PewjjCupmHWiMZU7l4Ur0w,Café do Largo,0,1,4.0,1,6328.421827842743,Beverages
+-9O2nDUyY1Ks6RwV6V_--w,Sativa Pizzaria,0,1,4.0,3,4592.047606943297,European
+kPHU2lK4TDCMa1IVAKGHFw,Faenza,0,11,3.5,1,8249.42327222027,Brazilian
+6qmgW8x6pFuTnsy2EQrRMg,Senador,0,5,4.0,2,8352.762261666789,Type of Restaurant
+scL0RzNDi0oP7GIOS0GnJw,Garota,0,21,4.0,2,9544.798196160586,Beverages
+RKWuDb5DjxMzDq-8L0dYYQ,Botequim Informal,0,3,4.0,1,8158.696132630738,Type of Restaurant
+7kzvkvZnKBCvWXwDAIn-Jw,Bar Tropeço,0,3,4.0,2,6521.416096809951,Brazilian
+K_LlkGFhxg_JKSB9-vrzug,Chopperia Vila Rica,0,2,4.5,1,8099.634360926679,Beverages
+-Pzu6_3MSJUvnYzNTG4rCg,Jóia Carioca,0,1,5.0,1,5029.865565266827,Beverages
+S_nQMdEBzIF1pjItjSIXqw,Oliva Trattoria Mediterrânea,0,1,4.0,1,6482.466948810143,European
+ldR9SthcdzAvT3VnIvAd9Q,Mcdonald's,0,2,2.5,1,4522.009261715361,Snack
+oaVU4WZif1Su4GWCQ58afA,Escobar,0,2,3.5,1,6709.483445651199,Fish
+EX6_SXlger4ypAqDNlZB0A,O Cravo Bem Temperado,0,1,5.0,1,8593.162573942192,Beverages
+ffZEDtS_5Pro23xVuU0hGA,Restaurante João de Barro,0,1,4.0,3,8490.198266659436,Type of Restaurant
+E05BBj-2k1cn-FGUngwG0Q,Habib's Quiosque,0,1,4.0,1,8397.644190188517,Asian
+XOppPb1lIgCL1i4tOHOZ_g,Vegecoop - Restaurante Natural,0,3,3.5,1,8153.488175788355,Vegan
+P2GCCkGSKU4J_YNDbLspWQ,Cantina da Nonna,0,2,3.5,1,1710.1358508529302,Brazilian
+mTfjYBXwBs4Z5DLO6JnB0Q,Restaurante e Padaria Via Gourmet,0,1,5.0,1,11829.723327575217,Type of Restaurant
+qM78oDSyhwZN1XCVX3yvlQ,Restaurante Siri,0,6,5.0,2,14613.713496449524,Brazilian
+DRzHjQ_HnY2quHf7vcCp5A,Madero,0,15,3.5,3,12981.66172046724,Type of Restaurant
+SjxyJQTdwsKyUgiQ-yoqAw,Caravela do Visconde,0,13,4.0,2,6504.141054504814,Type of Restaurant
+NMVbKnj6WTKE3M1m4suZqQ,Baladna,0,1,5.0,1,8292.165417035696,Specialty Food
+JMdWzbeo7ndBM1NVaKstTw,Kimura Culinária Japonesa,0,3,4.5,3,2104.7691812821804,Asian
+lkG7qjInbWDRnjmG5xsNMQ,Meating Homemade,0,15,3.5,2,5351.008335702089,Snack
+X2uPrMpxCkiJFUVjrvPohg,775 Gourmet,0,1,4.0,1,1677.5454384248785,Type of Restaurant
+SbFyLe2SMAKOaTLcYqJndA,Café Ipiranga,0,1,4.0,1,7534.649193106655,Beverages
+cJNbWSfx7wtlApR6XnuEvA,Pizza Park,0,2,4.0,1,1351.010625047706,Type of Restaurant
+HWMxz6Ap2l85dHbHpzJwqA,Capadócia,0,6,4.0,2,8617.429584230273,Type of Restaurant
+WkyuDdXMxfvhxsl5GbPngQ,Canteiro Bistrô,0,1,3.0,1,5878.866006532384,Type of Restaurant
+ZQ7hgeZ1_fS7AICv5wX0Lg,Banana Tropical,0,1,4.0,1,8766.113148730985,Beverages
+jnAJxp7UMn4sjMq-nW0ZWA,Barraca Sal e Brasa,0,1,4.0,1,5480.3591530523645,Brazilian
+uvq-Q4Wv0a_z7ILa9mRGjA,Botequim Rio Antigo,0,1,5.0,2,9833.026647265222,Beverages
+5v0LCTu3SUfaX9rBeyE-oQ,Lapamaki,0,15,4.5,3,8198.565172065517,Asian
+norifeVVbQJrhUjRlBbR6A,Restaurante La Cazuela,0,1,5.0,1,8407.040082294598,Type of Restaurant
+A97KW3nmlAZ-_4vFjRZg7g,Seu Pires,0,6,4.0,1,5317.353976663481,Type of Restaurant
+5gF1rR4dC7v0_LMA-DvpRg,Am Pm,0,1,4.0,1,2433.086680428199,Brazilian
+gGrv-7AgG9bdBHOvLyboZA,Verdin,0,4,4.5,1,6514.353438305769,Vegan
+jKRZ1ZqJCA22wN6jG1NV3Q,Restaurante Os Esquilos,0,2,3.0,3,3989.945721060648,Brazilian
+0UXql9oF0N_2p104Ddo2jA,La Mole,0,5,3.5,3,3223.854447336548,Brazilian
+rMIQRUkD5l_tqVun7E--3g,Combinado Carioca,0,1,3.0,1,6111.403063578981,Beverages
+i4g5kuVxAtUQpxkaeo_KMw,San Izakaya,0,3,3.5,1,6259.893155933108,Asian
+pr1xRyqLxaBjgb5N9-e3-Q,Bistrô Rio,0,1,1.0,1,4712.578379165735,European
+UpggFiVH-lYq6_xHi-CkMA,Don Camillo,0,16,4.0,2,8199.548451061652,European
+LwSoNCGBMmUFzmQ94Urzpw,SudTruck,0,1,5.0,1,8905.235482911998,Snack
+5eyC6zIuP8yJO2B0ed4U5Q,Cais Bar,0,2,4.5,1,9258.192620138989,Fish
+t97NLxtDussBaZ4fDLqvqw,Bento,0,6,3.5,2,2596.490146503345,Brazilian
+N_erh4NxPZdQ1rxhtR_jpw,Frederico,0,3,4.5,2,7458.2120420176925,Beverages
+eQse8bz38t3H0sfOPOvLPw,Outback Steakhouse,0,7,4.0,2,6607.602484230158,Australian
+vdehnIaIZ3f8BZSndnMIiQ,Tramelinha,0,4,4.0,1,7256.37288008372,Type of Restaurant
+2HUnQDD5DKII_aX4JkxUWA,Bob’s,0,1,4.0,1,8050.386896180682,Snack
+YEe_omciiflArH3cBNLfJA,Cultivar Brasil,0,8,4.5,1,7111.122625716037,Fitness
+_aw8AEG5yb1MnSJOdCFIIQ,Graça da Vila Restaurante,0,3,3.0,1,9062.830372604236,Type of Restaurant
+Do5Bf-JNm9Q0gXEmjxLBQA,Boi Bão Churrascaria,0,2,3.5,1,4456.500577657166,Type of Restaurant
+WtDJ2SF1DWuH_kqdZ8spew,Yosuki,0,6,3.0,1,7732.196141520931,Fish
+DqOLQfuFI_seRs9WJRvupg,Faraj,0,3,4.5,1,8429.07533851674,Asian
+ZAWh8yZlcpf-_mBLgWwFhA,Cantinho Cearense,0,2,5.0,1,8726.324210477558,Snack
+KAB9rQcM3Cgm2h0J-VktZA,Restaurante Berbigão,0,11,3.5,3,8026.504955196959,Fish
+qh-gm8Vbqt33ajuTNxK1MQ,Joana Pizza Bar,0,3,4.5,1,7590.164617853833,Type of Restaurant
+JHHkzBMr7_q5NHIqsKHJ0A,Antica Osteria dell'Angolo,0,4,4.0,3,6985.3393832724905,European
+siGHJrnHGljqmNPBm2Aj6w,Oliva,0,4,4.5,2,12748.51695920242,Rodizios
+ZYQM_PjBc0nhjeTGYR-u_w,Adega do Valentim,0,1,5.0,1,7944.722991874613,Beverages
+RGN6nMrsv9zVFpoJtNhSxw,Sobrenatural,0,12,4.0,3,7211.848410670613,Fish
+mgZufsYCvd_A6OLphfj02A,Alcaparra,0,4,4.0,3,8219.828210562346,Brazilian
+2WQGwlvzemksdOpKwEfsug,Violeta Café Restaurante,0,1,5.0,1,7324.627430747517,Type of Restaurant
+hEK8UN3vtn9A_14q26HNng,Pizza Hut,0,7,4.0,1,6114.834677169652,Type of Restaurant
+9Hvy-TYDgQF4fjCghSGH4w,Giuseppe Grill,0,1,4.0,1,8634.667875199633,Type of Restaurant
+jGa3DbyvKZmwzMLqdo4o6w,Gabbiano Al Mare,0,4,4.0,2,7805.8191215703155,European
+0xENjcU2GVTejxCXRXqCxg,Restaurante Sakura,0,1,5.0,2,2584.65541342416,Asian
+uT53WfRbRGM4Nc9fnKYzTg,Donnana Minoseg Pizzaria,0,1,5.0,1,4001.484543067757,Type of Restaurant
+gYAw5Wa-dms2JSb6DPLveQ,Pomodoro,0,5,3.5,2,8695.403986411096,Brazilian
+SAT5q3u6BVRi03m6gqXN4Q,Clara Café,0,2,3.5,1,6536.568404239952,European
+7RSfKe94gk2wKxCsmazxwg,Pensão Congelina,0,2,4.5,1,7369.659257175053,Brazilian
+JK5lAc1VLClcxs7eokNabQ,Restaurante Maipu,0,1,5.0,1,8129.29750347533,Brazilian
+5bHcxj7Mi8h5dUU47dBvDA,Adega Portugália,0,7,3.0,2,7753.891715813874,European
+YPMQUnMMczX3NxtAWYiO3g,Gallo Carioca,0,1,4.0,1,8725.728128496394,Beverages
+n6OGr-blMo-LWlR9KhA-dw,Restaurante 810,0,2,3.0,3,12374.509240425965,Type of Restaurant
+3qUwlqFBXMoHEo5Vya-R4Q,Restaurante Sukiyaki,0,4,4.0,3,4538.494113982617,Asian
+Gih6lSeeopct3RHYSjV9BA,Pizzeria La Mamma,0,1,5.0,1,5867.223027821601,Type of Restaurant
+3ulviJ7wiue8tsFG7fU0gQ,Frigideira & Cia Pizza,0,2,3.5,2,1490.1132087156725,Type of Restaurant
+ZsR9fBII_LBLYPIRlc8n6A,O Forno Rio,0,6,3.0,2,4526.944957682304,Type of Restaurant
+nzwX2aYTsCEoSn0ZBMFuBg,Buda Sushi,0,9,4.0,2,8795.925118563608,Asian
+t8Jaf9hfmkiOx1DXLmUM4A,D.R.I,0,9,4.0,2,5341.703365637388,Type of Restaurant
+MrJZXSp46fZHyje0n0Hxlw,restaurantegarotadeipanema,0,1,5.0,2,5738.807366923571,Type of Restaurant
+XNys7FCdkutCuMEVNrW9Sg,Moo Gastrobar,0,2,1.5,1,4931.690722419533,Beverages
+R13d8XQZ38zz3zL9K5xhfg,Bar e Restaurante Bismarque,0,2,4.5,3,7515.201593565599,Fish
+ihde51HZdjbZSWIjO8553g,Taberna Atlântica,0,4,4.0,2,8997.556732411229,Type of Restaurant
+3jptZpIjDdEeiN0eGS4pYA,Yaki Mix,0,2,4.0,1,7221.988140634737,Asian
+J3lr47mpt5SQ24upZAs1Bg,Spaghettilândia,0,3,4.0,2,8413.287241556494,Type of Restaurant
+gYw3wZAyjnTEx3gaIis_CQ,Metrópole,0,9,4.5,2,6536.538169985623,Snack
+fHrTtkwyvXHubox7SETsig,Restaurante Maxim's,0,11,3.0,2,8510.059397072953,Brazilian
+AqjGorFs9Daz_7Ubcrox7Q,The Line,0,2,3.5,1,8902.477454694856,Type of Restaurant
+ScFlrlfZLO4qJCBOW8XM6g,Acarajé da Nega Teresa,0,1,4.0,1,6695.2743086378,Brazilian
+Y_eQLgxQGblfDaeS8dG4Ow,Conexão Filet & Folhas,0,2,4.0,1,7785.717998917565,Fitness
+eWHsa5yMcc8OvwAOGxbVxQ,Bronx Burguer,0,2,3.5,2,5529.192128214277,Snack
+LDBpIQUI5vQqjCwd2utN4w,The Hutt Burger - Freguesia,0,3,4.0,1,7630.413627500307,Snack
+y1lEh9vbkTw74wTPk4rXnA,Talho,0,1,4.0,1,5304.110117698837,Beverages
+jz3CFQgO3Uxv1DGIpy-oqg,Espetto Carioca,0,1,5.0,1,8799.461821953411,Beverages
+vboAzorAvke7l8YMNV0rcw,Bar e Restaurante Tulipa da Lapa,0,2,4.0,2,7680.6415514189,Type of Restaurant
+_BivuydgQEniOyJ58n4Nzg,Japa Maki,0,2,3.5,1,6494.533059929993,Asian
+90Z58Zp3ACCtSEOo9_VZLA,SubAstor,0,2,5.0,3,8290.349152705881,Beverages
+SxSstZvRxIPy_pOrL-awGQ,Restaurante Donna Donni,0,1,3.0,1,1345.5065613144386,Type of Restaurant
+szrYY76u63tEnaLfYvYKzw,Piccola Itália,0,2,3.5,1,8859.423757749653,
+espPqJvex6vfSXeM2yxsYA,Ateliê Culinário,0,1,5.0,1,5738.807366923571,Type of Restaurant
+eGh4lta90_x4-yD2vDgzdQ,Pizza da Mama,0,1,4.0,1,4896.297719676119,Type of Restaurant
+0vaXNR8v73-2xrDfltUELg,Verdinho da Cinelândia,0,1,4.0,1,8462.719326777953,Brazilian
+14Q7lAXPvpcFTogAasDRfw,Empanadas Gourmet,0,2,5.0,1,6942.127370493635,Type of Restaurant
+8eaG9fL11O1obGJUXhl8Cw,Laguna,0,5,4.5,3,9379.350350863297,Fish
+4Rs1hvrm_faVlu9fBbGzHA,Padano,0,3,3.5,4,11693.390412716086,European
+ffUvVi2mZL9638AImhMQuA,Bar da Graça,0,1,4.0,1,4489.1417074204,Type of Restaurant
+KTNkCs2jtOtEwgdqEjqU_g,Kaiten Sushi Bar,0,2,4.5,1,8656.349312426255,Type of Restaurant
+yrJQs8t9Bii8qzQb_5Fu3A,Balada Mix,0,7,4.5,2,9893.19107277354,Beverages
+JauVtXzR-w-jyJ7AGqiWiQ,Moria Grill,0,2,3.0,1,4670.055242928298,Type of Restaurant
+3dd3e4Ol8eomDxr5v9tPeA,Escooldidinho,0,1,3.0,1,5058.033835514725,Brazilian
+p48mLzzcPnk57Q3Mu5EfhQ,Formato,0,1,4.0,3,7387.85253360282,European
+E6n7qSpI7_htFxAlXxa3kA,Al Legno Pizzaria,0,2,3.0,4,1463.2481020740238,Type of Restaurant
+DKN9FLxpTcyA0_t249TPoQ,Casa da Ostra,0,7,3.5,3,3136.9494615304684,Fish
+W_tOTQLyBkv70bMYj1rw0g,Parme Pizzaria,0,4,4.0,2,2078.812339408571,Type of Restaurant
+pB2m7NzKhjFvkbWlF76mbA,Joaquim e Terezinha,0,1,4.0,1,4494.690780547901,Brazilian
+dR3Cim8Qxsdo3Wpssy5MHQ,Bar do Gengibre,0,5,4.5,1,8880.461233007085,Brazilian
+6bOpGQ7iKoanEJJwOtufFQ,Mamma Jamma,0,1,5.0,1,8147.554853111833,Type of Restaurant
+duTSETeotGWndD4W2VnTXw,Reserva T.T. Burger,0,17,3.0,2,6354.965540363777,Snack
+Bw2NzJF880a5nnfPI76F-Q,Fórmula 1,0,2,4.0,1,8511.261010332933,Brazilian
+6Xo2NK7XuFzopPyEsD39dA,Bar D´Hôtel,0,15,4.0,3,6696.762230373388,Beverages
+DQnyhP1kWQREH0pUCZX-FA,Frigideira e Cia,0,2,3.5,1,10834.330882263972,Type of Restaurant
+5d5S0lnJwU8Qu4vdkAx60w,Salsalito Gastronomia,0,1,4.0,1,7559.20719889491,Type of Restaurant
+9na9Sri4bouMtXo6WZ53dg,Fazendola,0,32,3.5,2,8190.925801132845,Desserts
+dRn-PGZx5yoFTYJu35dy3w,Nery's,0,2,2.0,1,5021.063844395998,Brazilian
+fEtFaHK8jYdWwvvoMsR5TQ,Ráscal,0,4,4.5,2,8350.575337921802,Type of Restaurant
+KxU_XLF2uqhiPrlQ4PXISA,Sushinaka,0,1,4.0,1,6707.506600937462,Asian
+kKSz7i6LqSbdNJEvUbeiGg,Adega do Pimenta,0,2,4.5,2,8074.777485912892,European
+Gka5PAwQoPrWiABw4Ev5TA,Tapi Carioca,0,1,4.0,1,2399.121856257195,Snack
+6-N7Flhh9zarSU95WfpCNg,Skylab,0,4,3.5,1,8281.968297012485,Type of Restaurant
+70B0rY7nq2pKQB6xA1YyMQ,D'Amici Ristorante,0,6,3.5,3,9008.797135665043,European
+LXPqOTVQd_Wh9DmEFTNXdA,Quiosque Arab,0,8,4.0,2,5760.289774597647,Asian
+NO48bBroqfGWFqa80A_JHg,Saara Grill Restaurantes,0,4,4.0,1,7711.083739643493,Type of Restaurant
+FWumK7Y5rVuV9bFVFrUcBw,Saltimbocca Cantina e Pizzeria,0,1,3.0,1,1294.005535319712,European
+JkfY9pX3r066ngv83j3NqQ,Casa de Arte e Cultura Julieta de Serpa,0,3,4.5,4,8224.485565575615,Type of Restaurant
+e71YAAKCON85j-semqD1lQ,Outback Steakhouse,0,20,4.0,2,2373.318330250569,Australian
+emnUbvLkp0vTEtsx7bxLuw,Fogo de Chão,0,77,4.0,4,7937.822377973503,Type of Restaurant
+AbAlZvmoW0VFmf87Oi2l0w,Brownieria,0,4,4.5,1,6559.877054957931,Desserts
+7ACcisg9DrxOlQE90NduFA,Restaurante Porto do Sirigado,0,1,5.0,1,3530.964110810034,Fish
+1bCvl8uVVLibIqfel4ET5A,Planalto do Chopp,0,1,3.0,1,1743.0038088145482,Brazilian
+Y_7JNebkm_m1abWp0PZ51g,Quick Galetos,0,8,5.0,2,8619.867761304986,Chicken
+LkSMA4yjDf89Ryt_jKY2tw,Outback Steakhouse,0,19,3.5,2,5915.444660200908,Australian
+UeaERS1r68olWWQTl0JKyQ,Mini Joe,0,1,5.0,1,8502.745475607297,Beverages
+kj50TbRNynlQ9LlCFbnZuw,Fogo de Chão,0,9,4.0,3,12762.918622259009,Type of Restaurant
+_P60Xcl9rn-5Z8R95ytCxA,Restaurante Pasta e Pallone,0,5,4.5,2,8928.00146078479,Type of Restaurant
+C4GRQ3V5WoFku1IvnYIKNA,Arco Íris do Lavradio,0,1,4.0,1,7862.564749061638,Type of Restaurant
+OoCTp8LDmGQuQRmEzD5c_w,Togu,0,8,3.5,2,6291.50279906946,Asian
+7Q8GH5zUtRws1zNIVq1Bcg,Rei dos Galetos,0,1,4.0,1,8694.389439573397,Brazilian
+MB9zixdtRb2fY1uLi6AmSw,Blue Agave,0,13,4.0,2,7739.298770997917,Latin
+gvokv4RLmYl1BAAZ3UdulA,Resenha Grill,0,2,2.0,2,12604.379532753055,Brazilian
+BGEpduLy-Mn_UEN_XFvtFQ,Burger King,0,1,3.0,1,5738.807366923571,Snack
+lx93kBfizFYq56KRnR8RVg,Fernando's Restaurante,0,1,1.0,3,2642.226335649383,Type of Restaurant
+XbBqIDjOTv5K2FEhINa0nQ,Seu Cristóvão,0,3,3.5,1,4957.417044095561,Brazilian
+qlfimG2yx1W1ARQH-aItgw,Toca da Paixão,0,5,4.0,1,8450.716886001257,Fish
+aRoDVXKDZj_NrBp-fKgKcg,Prize Burger,0,2,4.5,1,7465.06013822127,Snack
+7uK6IbumpfUmLPcNBm_hrw,Frango Veloz,0,7,4.0,2,2318.812223670645,Brazilian
+C8a6t7uq_VN1UGMAopZOQQ,Caiçara,0,2,4.5,1,9402.154442398984,Type of Restaurant
+sqNHNTEPiKRrdsy59U-7Uw,Sushimar,0,3,3.5,2,7484.252763286408,Type of Restaurant
+maJ095Qcz1CIxAVXfGAKXg,Boteco da Praça,0,6,3.5,2,7970.117657900167,Brazilian
+_4BSJ0gEGuNJa3OIVKSs6g,Clássico Beach Club,0,2,4.0,2,10555.285381297495,Cuisine
+z_f9HJ_Pq9SCISety7tPuA,Riba,0,4,2.0,3,6977.618507542175,Type of Restaurant
+HbL7b53ootB9gt7shlaXwA,Sopão 95,0,5,3.0,1,2216.3985838351527,Fitness
+zKTb5sSF7PDO10uak4mKlQ,Oliva,0,2,4.0,1,10908.328904869935,Brazilian
+UciJn06pcZg-8MK5Us2bhw,Flor da Tiradentes,0,1,4.0,1,8067.351040568981,Type of Restaurant
+xEV77U5735_-ifp5-TN7cg,Restaurante Margutta Citta,0,1,5.0,1,8778.287905186031,Type of Restaurant
+KaXHDXjugG4h7nDLK-d_-Q,Zas Tras,0,2,3.0,2,7407.063807700257,Malaysian
+eScViHsOyM6NyJPAWOJtLg,Antigamente,0,13,3.5,2,8834.262690790789,Brazilian
+1HHtcw57gaf9g-jgedk7wg,Casa Urich,0,4,3.5,2,8709.26353917752,European
+ymPEuUmNCzeLWz5zU4ALXg,Carmelo Café,0,1,4.0,1,8789.287347791127,Type of Restaurant
+3mSkMdxIJFMkYfLbfBR-SQ,Aipo & Aipim,0,4,4.0,1,7929.488532222137,Brazilian
+Iagx7eBREmoVnAjLLw3OUw,Pub Escondido,0,30,3.5,3,8251.076335226258,Type of Restaurant
+PkXeQbp7XSzmFdFbNzGhaQ,Liba,0,3,4.5,1,7698.443538373115,Asian
+5NfWG26SfJYb8HPjjgZlxw,Restaurante Vegetariano Bardana,0,2,4.0,1,8935.744284722085,Type of Restaurant
+8Li3KvfZfbNH_Qu4VtxXJg,Conexão Arte,0,4,4.5,1,8731.700654512359,Type of Restaurant
+_NZvOUHesyhXRxoTr0HuBA,Bistro Estação R&R,0,1,5.0,1,7728.315615239375,Beverages
+FRobyN0rOc4oo9sD15S2OA,Enoteca DOC,0,2,4.0,1,8192.18099121124,Brazilian
+Z5xlnogARIHcFsAK89Gkww,Deliccie,0,2,3.5,1,2665.023435712575,Beverages
+OSFE0C5am_DrcT8mSrRpsw,Gula Gula,0,9,4.0,2,8334.869623799525,Type of Restaurant
+DKaUEG1hWyzN3M38G67Hbw,Burger King,0,1,5.0,1,6413.287157528902,Snack
+ezyz2beA4srb3tvyaecj4g,Sabor Na Medida,0,1,3.0,2,4303.692161453312,Type of Restaurant
+9JxgYUIRe0aYjRM1-35Q0g,Bar Veloso,0,7,4.0,2,6457.791743113119,Beverages
+atFtk1Te2hOYsY_NIqt4Hg,Espetto Carioca,0,2,2.5,2,12063.266028784155,Brazilian
+prj06XIJEgOWxPOsg2jdAw,Bar da Maria,0,1,4.0,1,7913.180405419968,Fish
+3BbwXGcMt5gzl87YH1aNmQ,A Boa Mesa,0,1,3.0,1,7386.271482478882,Type of Restaurant
+L_FWBjTf9UcI18e74udN5w,Armazém das Massas,0,2,4.0,2,8646.811173017084,European
+k9rcrms2H_RsVqF9VANvVg,Casa do Frango,0,1,3.0,1,5738.807366923571,Type of Restaurant
+eodM-2R5gY0CkriEPlfikw,The Boua,0,20,4.0,2,7329.946669542481,Beverages
+s-HcZvu8TvMQ4t3WSGaqoQ,Baladinha Mix 24h,0,8,4.5,2,11389.28819704244,Beverages
+txhAPr9AkN7seCrJy_hcMw,Barraca Asa Branca Comida do Nordeste,0,4,4.0,2,5554.872783127333,Type of Restaurant
+_biHWsM5RE0ExIoAmtOW1Q,Mistura Perfeita Pizza & Massa,0,1,4.0,1,9301.244621140537,Type of Restaurant
+xNPy-e6haqOS7WHTZ4CC1A,Pizzaria e Restaurante Tio Frank,0,6,3.5,1,8674.765883971673,Type of Restaurant
+4iF9J65oWmpTK_QycylV2w,Il Piccolo Caffe,0,2,4.0,2,7575.678017693811,European
+UxIqeD4D_UrwxCUOedhh6w,BeeFit Alimentos Funcionais,0,1,4.0,1,8099.099882995043,Fitness
+USbhle2-20TlujT5knl72w,Damasco,0,2,3.5,1,8438.686262328056,Asian
+XUfzAeB3WLaumYrdyKm80A,Vizinhando,0,7,2.5,1,3935.454828991096,Beverages
+eWBDZDETmS1syZ_tyC1WzA,Le Pré Catelan,0,7,4.0,4,8785.05045408059,European
+FqsbQeK_y_Ot1slv_NMlww,Big Apple,0,1,5.0,1,8562.43102215218,Type of Restaurant
+YMH6f5ILeX0HOGoGpRPiWw,Bar Teto Solar,0,34,4.0,2,7415.218034923936,Type of Restaurant
+Tz1DeLk4iL0ns6sNZPvy_Q,Café Hum,0,1,5.0,1,6294.991113257729,Beverages
+PvsJfj9awdWwecNq2QTH2w,Gurmetto,0,1,3.0,1,2581.686563224756,Beverages
+0qjrPIm0_7ixEGVbjWRkFQ,Pizzaria Panq's House,0,3,3.5,3,2347.633727802121,Type of Restaurant
+bJrVJo7P0Ktebq78vU5uNw,Le Gout,0,1,5.0,1,8740.170780409102,Brazilian
+RXRF7iHN9iewNf-rI9NACA,Adelos,0,3,3.5,2,8906.112820068824,Brazilian
+L3Df4UZEItPU2Qu4Sl5M3A,Faraj,0,5,4.0,1,8268.741588167664,Asian
+5WGMqhWPH2UyiROAfX0NUQ,Samurai San,0,3,4.0,2,8096.028503940092,Asian
+oevr_FvYgxkOcpSxMA8boQ,Confeitaria Colombo,0,145,4.0,2,8421.31672828007,Beverages
+JSfqDIxGApoTTGWSrkEI1Q,Doce Acássia,0,1,4.0,1,3771.136361949199,Beverages
+-j3zXM7ljj9dL6T3K-WPlQ,Leme Light,0,3,3.5,1,9026.586801594942,Type of Restaurant
+mgRN8ENUGqpBHJkxSOjlpg,Kentaro,0,2,3.5,1,5696.980926072806,Asian
+HG5FHysiqE7-WVn3QXrC-w,Market Ipanema,0,3,4.0,2,7246.552486541094,Fitness
+FQwNwvo7Nr3UuQPcZ1BQww,Delirio Tropical,0,8,4.5,1,5333.789887343061,Brazilian
+qUqpevusTw7tkkbwcQt_zQ,Temperado,0,1,4.0,1,7443.413069089891,Type of Restaurant
+krAx0TNGKi4O5JB2bZwpFg,Churrascaria Oásis,0,2,3.0,1,7337.861440092193,Type of Restaurant
+gBREHWvdxbbLJJloGCxqyA,HOO LALA,0,2,4.0,1,7967.9186197470335,Asian
+BzVrZvrMa6A8QL_iMZ3K7g,Papizzo,0,6,3.5,2,9759.08002862308,Type of Restaurant
+I2CD__v0ZbD6cZ6LFYqqkA,Hareburger,0,4,3.5,1,2310.4648034895727,Snack
+BQK17mNGU7CLk4vQ9ZNqiA,São Quim Botequim,0,3,3.5,1,8966.490173609565,Beverages
+BV5f8kdRJJlmipFuMsB79w,Ki,0,8,4.0,3,6255.760502188797,Asian
+n98INO0EjQDnFVmLHsuLog,Umê Sushi,0,16,3.5,2,8388.357390284616,Asian
+NQleTBOU-rTjOBYfQ9nmUg,Armazém do Café,0,1,5.0,2,8656.349312426255,Type of Restaurant
+gEoylnGmp9pyxdZa3rjzSQ,Refeitório Orgânico,0,13,3.5,1,7259.198435080826,Vegan
+qcKuVGLXpQIIZHkw8xcx9w,Habib's,0,1,4.0,1,7629.04815794029,Arab Pizza
+fKjVm1Aqh8UDpSfAe9VmYQ,Naa!,0,2,2.5,1,4890.011973874645,Asian
+XfE6lHbvcH1e1rXtlw7Xnw,Combinado na Brasa,0,3,4.0,1,8155.416847888322,Brazilian
+6J-XEfLLAZHGkzNp6h_KDg,Bendito,0,17,4.0,1,8148.851443764605,Beverages
+OM1XUujZDz2EYzc35K8VMw,Manuel e Joaquim,0,1,4.0,1,9273.934102010924,Type of Restaurant
+LlEDDjNqrvj7LiL6TL7EvA,The Slow Bakery,0,11,4.0,1,7090.097143016447,Desserts
+W2RRG8w2GkUJWd6QnAKleQ,Restaurante Ettore,0,4,4.0,3,9892.248960307725,Type of Restaurant
+N_NKXDnUOMEJtS63sIOSBQ,Churrascaria Gaúcha,0,4,3.0,1,7347.206482633922,Type of Restaurant
+xwypesPl3FlhrWYt4Vz20g,Restaurante Zacks,0,2,3.5,1,5950.349355526869,Type of Restaurant
+ulFBSVqCeWpD-26MuZw5mQ,Panela de Barro,0,2,4.0,1,7878.705574463869,Vegan
+MVxYnIm7zuRwsOWOGSLLhA,Benedictine,0,1,5.0,1,12173.61576104236,European
+Wwo0CFq1ZWoQRslBnam59Q,Satyricon,0,33,4.0,4,7656.561731203542,Fish
+5AhY6QahdNNDLV6ZMGcaiQ,Barzin,0,23,3.5,2,7695.848494699183,Brazilian
+MpZp2ukjhUuyj-tY2Ibgsg,Castellone,0,1,3.0,1,4536.556217710754,Brazilian
+_mkaJAVU6dht9xWzD3zxdA,Café Cultural Sacrilégio,0,1,5.0,1,7794.643746135319,Beverages
+mEARn_OA1zaL7dvBqMzowA,Santa Branca,0,1,4.0,1,8843.40311293068,Beverages
+Okct5sv8xpoVBiER_RAzrA,Xodó do Meier,0,2,2.5,1,4766.736439516376,Type of Restaurant
+VWvo2eXX7VwO7uMqB5ii1g,Botequim 184,0,7,4.0,3,6389.6310773422765,Brazilian
+hhvvmBiyF_DL8equvLnMGw,Temperarte,0,6,3.0,1,8535.61005496154,Brazilian
+oT8-e3VP0DYgM816g8fJWA,Balada Mix,0,2,2.0,2,6516.272094042327,Fitness
+lJ_lSqJfMSdr4T1T8JiB7g,Spetinho & Cia,0,3,3.5,1,7133.29243859594,Type of Restaurant
+60dT1lKbWLNWFpVttSvdpQ,Casa do Barão Restaurante,0,2,4.0,2,7971.660944105304,Type of Restaurant
+I_X1Qd31HX0gGMYM265X2w,Barbahtchê,0,1,3.0,1,3278.794859097404,Type of Restaurant
+-ZDcWSCi8Rycmbf7uJNZog,Minimok,0,4,4.0,2,11496.352277232038,Asian
+dgkxHkAjkKPJlG7KmwFQ1Q,Boteco Belmonte,0,10,4.0,2,7835.173615245071,Brazilian
+N0lnjQjHLe0tNlsi_Z0XCw,La Phenix Gourmet,0,1,3.0,1,2171.970906115755,Desserts
+P5FbqNj4H0ogIr3BbYe-NA,Restaurante Ming Ye,0,3,3.0,1,7799.67061518129,Type of Restaurant
+-Q4-cAYZZVkwhG-MWgdBZA,Quadrifoglio,0,2,2.5,1,6049.719028406286,European
+oXK_RDcx1SHyf5PsTIFO5A,Balada Mix,0,22,3.5,2,7172.272160191164,Fitness
+soG66fSe6ttmc04xDiP01g,Kilograma,0,4,3.0,2,6924.221392299481,Type of Restaurant
+QUjxqiPgFPQvhhI0Dd2c0Q,Tomathe,0,2,3.0,1,5738.807366923571,Brazilian
+cxpgtvMLpcY5ZdR0N7RFrA,Bonsai Sushi,0,3,3.5,1,7604.546187971563,Fish
+fnbxkUJ-R0a70w_ETsDBZA,Rei do Bacalhau,0,2,3.5,3,1148.5134017555372,Type of Restaurant
+ddZLCQ4xc235BLjBaXkO_Q,Giuseppe Grill Mar,0,1,4.0,4,5975.372926708738,Fish
+LchU0pDIP9Pyszc5sB-N3w,Subway,0,1,4.0,1,4734.176142236198,Snack
+mBPXd9xoszIKjwoqwdVXfw,The Line,0,2,4.5,1,8887.458946869547,Type of Restaurant
+IkOAp70ie-S5pwZX7HVRHw,Vila Inn,0,3,4.0,1,2926.8663989647,Type of Restaurant
+ijNCHTogYjqc7DZCydEA5w,Bar 420,0,4,4.5,1,8302.655201194528,Type of Restaurant
+aYisiX78ReZ_uZbUCNGIdg,Pavelka,0,10,4.0,2,6411.151449732206,European
+MZoOx26dxMWW1OBODptR5w,Deck,0,2,4.0,3,8283.42064548993,Type of Restaurant
+7L50IXfODDqcFiEzjrfoVg,VIA 44,0,14,3.5,2,8172.413240489427,European
+qLwTCdUh9_nJFVdZdmqU8Q,Mr Chan,0,1,2.0,1,3117.069682045344,Asian
+VIEqplp4O25bVjhkaH7s1g,Lanchonete Nimusa,0,1,4.0,1,7199.693361126071,Type of Restaurant
+R3MEcw4WwTzPaU2wh0UYIg,Clube Gourmet,0,2,3.5,4,8618.209603801155,Type of Restaurant
+fZ2lrDG_az6n2Ujy4uLfEw,Creperia Bar Sete,0,2,4.0,1,8724.397388710866,Type of Restaurant
+1kbjUTFimS3a3b-sWMjDlg,Parmê,0,6,3.5,2,4555.860953262771,Type of Restaurant
+q1YMEAMsbOkVn_y4afZW9w,Focaccia,0,1,4.0,2,8502.638437177588,European
+Z7wmHASpC8fNF1IfMs2e-w,Britânia Rio Lanches,0,1,4.0,1,2406.0585793263003,Type of Restaurant
+sxwCGxnxy4cGskrhy_xxRQ,Restaurante e Bar Vista Alegre,0,3,3.5,2,8997.75440815936,Type of Restaurant
+hoJznOhm_M2_CVjJg26spg,Restaurante Bandeja Dourada,0,1,4.0,1,11795.620208877344,Type of Restaurant
+ovqCGA2ytzuWWuQTvZczmA,Bráz Pizzaria,0,29,4.0,3,5668.925296393359,Type of Restaurant
+mir3zs8rdNr3AJzbrVqMQQ,Laranjada Americana,0,1,4.0,1,8789.071084931176,Type of Restaurant
+DYdCQalCde4uE8BtJgXgKg,Pomar Orgânico,0,7,4.0,3,8878.561685315133,Vegan
+YNpJh0f9LCfgXplrnox3Cg,Jojö Café Bistrô,0,9,3.0,3,4460.118653711823,European
+YqLr2fOBb_gJ5cMA9EyLUQ,Inverso Bar,0,9,4.0,2,7313.096320784421,European
+a6l2nI_gc2yAdjeP6T32jg,AL Kuwait,0,2,3.5,2,8420.73353532945,Asian
+XCPbmm_FAYQ1dg9Vlr08DA,Bohemios do Juca,0,1,3.0,1,8516.475634831897,Brazilian
+ilxWbC9cQHrZ881Q82xZjA,Pilão de Pedra,0,1,4.0,1,8169.607712251464,Type of Restaurant
+uVxAaQjBhsSH8EcsWh_qng,Espetto Carioca,0,1,3.0,1,7814.137023893916,Brazilian
+7Ig0EFbjfqibHmKt0QhmAg,Bistrô Boutique,0,1,5.0,1,8911.948729920116,European
+lugus9y8WdWgju2U6G6zVw,Churrascaria Tchan,0,6,3.0,2,2873.500131663462,Type of Restaurant
+DCxlaSEb_cFe9tLj_A_DJg,Bar du Bom,0,10,3.5,1,2710.578497069921,Type of Restaurant
+KawWLKiDxmRVyzS1SQt9pA,Shelly Burgers,0,2,4.0,1,5671.6299952380095,Snack
+9AKyLzY0zL6re2aGgGrpYQ,Hansl,0,5,4.0,3,9148.428362711484,European
+YF5Sa07NT-IT3R7eb0KPXg,Experimenta  Lanches,0,1,4.0,1,2243.3401488689224,Snack
+P1DtcYw4bP3Mlm206wkgMg,Sport Grill,0,3,3.5,1,6398.438060761618,Type of Restaurant
+AJkWpyjsLv3iI0KvNe9bgw,Beco do Alemão,0,2,4.0,2,10490.644990879657,Type of Restaurant
+RY3IoVUTW6G-KVKqVrMycA,Top Cone,0,1,3.0,1,5289.78419604012,Snack
+_IwuFwUBP8VIUzRDFh2_qA,Subway,0,6,4.0,1,4096.880181573973,Snack
+xTbXpy_P1BcutBiRkSO1Xw,Churrascaria Carretão do Lido,0,17,4.0,3,8693.69773291654,Type of Restaurant
+aNYte1unxyrcK4EjqwqF-A,Espetto Carioca,0,1,3.0,1,10969.114536393809,Beverages
+3RYTBEKYc7c4xvVJPSeHRQ,Pizza e Grill,0,7,4.0,2,2308.1976817605246,Type of Restaurant
+8M_Rb6ma8ay_ZJbW6fHwVw,Balada Mix,0,3,3.0,1,7969.701243435151,Snack
+BZM8wkzge-PFZngWD3KWBw,Japa Nao,0,2,3.0,1,8165.084293273824,Asian
+Wll3aj9mls27Eoa7xkWLNg,Restaurante Adega do Porto,0,1,1.0,1,5703.59673895888,Type of Restaurant
+sbKaUdgKucn6r5a_va8dxQ,Restaurante Sabor Local,0,1,3.0,1,7873.868410051083,Type of Restaurant
+yynjbbe1wFzj_AmxC7tQpw,Galeto Sabiá,0,2,4.0,2,2344.514424443161,Beverages
+GFNvkqHjFkkFshSZj9juuA,Adega da Velha,0,2,2.5,1,7200.4862337334935,Beverages
+6lgWdSQveoi_uWjOwfpP4Q,Bar Lagoa,0,10,3.5,2,7305.686500588037,Beverages
+eP1oxbcVPlJ-LD9tTl33Mw,Mestre Kami,0,14,4.0,3,7834.03786445833,Asian
+izKrTn0W19LGYalK2LUebw,Picanha e Cia,0,6,3.5,3,11061.790887666906,Type of Restaurant
+nl3MZocHNr6n_Pa-yHJZ6g,Let'Sushi,0,2,4.0,2,8738.433306414066,Asian
+kmS44EwqNLHOdvM3mah59Q,Cotidiano Bar,0,3,3.5,2,993.5611344973098,Type of Restaurant
+CrF7USwAGgw8XSQJPTpFPg,Empório Domani,0,1,5.0,1,8903.048807323576,Type of Restaurant
+qwcWDNp_VCZv62wjFxnbkw,Conversa Fora Na Brasa,0,6,4.0,2,4201.767426768929,Beverages
+vtFr03n5Im6Qfu_Vw7P-ew,Chon Kou,0,19,3.5,2,8520.423081870975,Asian
+mF5a9jW8jhy0YE0ZXgJL8A,Bene,0,3,5.0,1,6799.908896699821,European
+v09kTskJAaOmne-NAq-9GA,O Reizinho,0,2,4.0,1,7268.882841538414,Beverages
+njY0Rdp03Tkjpdwa0ZGmSw,Lunatico Café e Cultura,0,1,5.0,1,4931.1681696263495,Type of Restaurant
+_Aft5iEZgWCm9vznQXeCbQ,Nola,0,4,3.5,1,6192.416393441316,Snack
+OnZ6_YswUpb9JsxY7NpveQ,Nitgrama,0,1,5.0,1,8578.523889925515,Cuisine
+IKDHyQKnUn2fofG2Ot23qw,Porcão Gourmet,0,1,2.0,1,5925.768712040748,Brazilian
+No-lbK8YsrXUwbAhN54hjw,Zom Bar,0,5,3.5,2,6586.721526694025,Type of Restaurant
+RksL6KDSJ5FdozI1DgXE7w,Apetite Café,0,8,4.5,2,8392.019962185086,Beverages
+TgARzKVu53ZPD41KJ6XE5Q,Restaurante da Sociedade Hípica Brasileira,0,2,3.5,1,5291.245199160445,Type of Restaurant
+fcn59AYyApfgC18ztKLFNQ,KFC,0,2,3.0,1,1111.8435181583498,Snack
+s95zHbR-WFLZUfWwp-dKvA,Panela de Barro,0,1,2.0,2,4454.356260528361,Type of Restaurant
+W4PW32LUzzJ1cLO8AfY2yw,Saad Gourmet,0,1,5.0,1,11031.533590420097,Beverages
+Kk1iuvzlnRjsujOHRvExCg,Avenida Rio Brasa,0,2,4.5,1,10213.843358149645,Type of Restaurant
+41B4otNDlSO2mNuZyTVuYQ,Bonomia Lanches,0,3,4.5,1,7908.354390671488,Type of Restaurant
+ON2AUbZ-vuXl_K5WTRyFxg,Beterraba,0,1,4.0,2,8428.058474955951,Brazilian
+EkRGtVc2gr-_O9GnAFcKCw,Yolo,0,2,2.0,1,7095.994561476436,Snack
+MTcVVj0-_p-2hFa6kLauFA,Koni,0,17,4.0,1,7815.409653317287,Asian
+RWDDGUkVsXgGeBkguv-8cQ,Galeto Gourmet,0,1,4.0,1,10997.946633226558,Desserts
+T_Cwm4kk_-fKo8tzrcdIJg,Galeto Cala o Bico,0,1,4.0,1,8302.763622799202,Type of Restaurant
+3sQZApvVgjtV7YoWSbvzXA,Sushikim,0,1,3.0,1,7665.602033832029,Asian
+7dLlN8wfMsgV9qCL1CrcWg,La Nonna Galeteria,0,1,5.0,1,12444.449086327608,Brazilian
+ut4jb7z_jkLgQjI07dxgfw,Rancho Verde,0,7,3.5,2,9298.948376971,Brazilian
+ZBLALpla3yFBVZW2DrjhYw,Maloca Carioca Gastrobar,0,1,5.0,1,7094.645113581227,Type of Restaurant
+HCVoUl82iw8WdaZBkwfvgQ,Bar do Marcô,0,1,5.0,1,7224.055660059466,Brazilian
+i_oztDmfoeA36UmktogZ3A,Kadisha,0,1,5.0,1,10030.231494663016,Asian
+SE0oEFvoKb4VosOdxTSw1g,Burger King,0,1,4.0,1,2437.8627488934794,Snack
+f1OK8l7woLSfi56B1ZDfnQ,Mr Chan,0,2,4.0,1,8106.300356820822,Type of Restaurant
+DgPnwzFGlvfS0CCLvyw5kw,Mega Matte,0,1,5.0,1,2926.972815177104,Type of Restaurant
+HFmOb2MEb9TD60tj9FTy1g,Caçarola de Barro,0,1,5.0,1,8084.211663895835,Type of Restaurant
+KSa56l2S_ao1_YdhwcQwYg,Restaurante Downtown,0,1,3.0,1,9283.799685402551,Brazilian
+4Wo-sIdTx7gOpqk1TGECFw,Barra Grill,0,6,4.0,4,9803.5284175328,Type of Restaurant
+UD4l_dNvuPyyFHfg5EKsig,Conversa fiada botequim,0,4,4.0,1,5740.336864076221,Beverages
+T3g6SBfHEuja3_QVExDYfg,Sushi Dara,0,2,2.0,2,7728.265858400471,Asian
+CO6kqnNpTTngM-JL3gSS_g,Hareburger,0,5,4.0,1,6378.01794851608,Snack
+HZ2_1B_wYusvYKb4-NTpZw,Pilao Pedra,0,1,3.0,1,5738.807366923571,Type of Restaurant
+Bk-dJKnt91k2L5_JXcbBtQ,Fiammetta,0,15,4.5,2,8171.504143881635,European
+ReIkbLqpR1H4ZzIgs88JmA,Lupulino,0,15,3.5,2,7604.143384247589,Snack
+Tec_cHbBZ0jkdEsvXraZBw,Talho Capixaba,0,29,4.5,2,6343.257514640863,Desserts
+Mg8Jn6FrwDBnsgmAp9-qxA,Burger Joint,0,1,2.0,1,6950.364872558439,Snack
+1cALrAKhhBRtDfreFCPNxw,Le Dépanneur,0,4,4.5,1,6598.499689060636,Desserts
+jgPyrB823d-xWI2OH7EEPA,Savá,0,1,4.0,2,7128.58362392742,Fitness
+VYoJOS7gg1qZVQ56WRIL3Q,Restaurante Cosmopolita,0,3,3.5,1,8069.793990716957,Type of Restaurant
+Cep9UDzxE6Myi8SDdAEloA,Zack's,0,1,5.0,2,8598.340806720216,Snack
+4FSgYyWOmIM8r46Q1YILXQ,Frontera,0,10,2.5,2,5635.374794185986,Type of Restaurant
+MU_61wVdiwyR0pIHjMmLqQ,Restaurante Amarelinho da Glória,0,3,3.0,1,8123.461624602092,Type of Restaurant
+I-RkbmfohBrMt9W8TJDcIw,Blankara,0,1,4.0,1,9931.661377469136,Beverages
+WTo6XAaMbSvrd2ajdrnUEQ,Ponto 824 Destilado Bar e Restaurante,0,1,5.0,1,6269.252650420276,Type of Restaurant
+eIzInjmC04W-q11JK9--dw,Urca Grill Restaurante,0,7,3.5,1,9090.413919952298,Type of Restaurant
+L7QCaHF5rAfSK2gpJsM5NA,Butecão,0,3,2.5,1,8031.675029844678,Beverages
+knM-9yLuoftWgQRn29iuwQ,Victoria,0,2,4.5,3,5792.4025575268615,Brazilian
+-K29HsEtLNl7kae7ExYa-Q,Botekim do Japa,0,3,3.5,2,8178.433840906734,Asian
+fZdEivFDOOhgt8tE90O10Q,Churrasqueira,0,4,4.0,1,7621.266325319671,Type of Restaurant
+tWr9pQJt33Ae0SeBBj4LJg,Esplanada Grill,0,7,3.5,3,6983.838150234959,Type of Restaurant
+nPptYJxFI0aV57U_MvTBjA,Grande Muralha - Botafogo Praia Shopping,0,4,3.5,1,7500.29588573767,Asian
+dw2MiWehrdv8PkznvsFGkg,Pilão de Pedra,0,3,3.0,1,8157.697074418151,Type of Restaurant
+k5_rPRbm6IJ6rpDPHmjF4A,Delírio Tropical,0,9,4.5,2,8711.614343630923,Fitness
+N_s66OdBIy9POLUwAm5uEQ,Mr. Copão,0,2,3.5,1,8425.716890294172,Beverages
+yj4iRTPIGsVK7HWNgT1IhQ,Maya Café,0,11,4.0,2,6452.951089326904,Beverages
+ClgwrZ7LpQB0wMBh9lTPLg,Cia dos Sucos,0,2,3.5,1,2376.21751978262,Type of Restaurant
+VPYvA-EY0seJOhJoMb3Ynw,Crepe Delicia,0,4,3.5,1,8690.462504016516,Type of Restaurant
+EwJsHW6N4o4AQzLCuqcnCA,Trapiche Rosário,0,2,3.5,1,8634.047232350185,Type of Restaurant
+ODy4ChL9xqZpWGlwmjBP1w,Biscui Restaurante,0,2,3.5,1,7731.311494312105,Type of Restaurant
+Ryii3P4uS8Ci46r341Ia7w,Restaurante Vice Rey,0,1,5.0,1,10737.397997688431,European
+hJtaLWO88JpEOrXqPLcPvg,Health's,0,3,4.0,1,8340.492602637114,Fitness
+5wXKVUaHgKRf_4s0AUXS2w,Restaurante Minas,0,1,5.0,1,8376.853642513104,Type of Restaurant
+eePaP3J0wLYW9c1GGHuUEA,Frigideira & Cia,0,5,3.5,1,10745.11153628494,Fish
+yuYpKESWyvv_r8YglLqtQQ,Santo Scenarium,0,6,4.0,3,7793.031821630419,Brazilian
+bGcGdYFCvXyliS0MRvC3RQ,Colúmbia Na Brasa,0,2,5.0,1,10360.263107322731,Type of Restaurant
+gLVmuMIdsPxQnMOoTWiC2Q,The Bakers,0,36,4.0,2,7975.6492747467,European
+mB2l8L05wl2-foV-Pgkw5g,Zacks,0,4,4.0,2,8598.732186524201,Snack
+U0Wy6FeqpRClQdzLJQFfkA,Mostarda & Mel,0,1,4.0,1,8378.180212179212,Type of Restaurant
+vcl4MaihGQ2_ocKZAZ4NMw,Bar do Elias,0,1,5.0,1,7918.516049762467,Asian
