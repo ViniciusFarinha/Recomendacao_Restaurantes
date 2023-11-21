@@ -22,6 +22,7 @@ try:
 except FileNotFoundError as e:
     print(f"O arquivo {csv_path} não foi encontrado.")
     print(f"Detalhes do erro: {e}")
+df_recomend = pd.read_csv(csv_path)
 st.dataframe(df_recomend, use_container_width=True)
 # Elementos de Texto
 st.markdown('# Recomendação de Restaurantes')
