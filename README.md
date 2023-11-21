@@ -49,7 +49,7 @@ O propósito do projeto é criar um projeto de portifólio usando dados reais! A
                                 │
                                 ▼
                        ┌─────────────────┐
-                       │     Results     │
+                       │     Deploy      │
                        └─────────────────┘
 
 ## Data Extraction
@@ -124,16 +124,32 @@ O propósito do projeto é criar um projeto de portifólio usando dados reais! A
 </p>
 
 ### Recommendation algorithm
-- Em processo...
+- Criação de um Grafo: Foi criado um grafo utilizando a biblioteca networkx onde os nós representam 'restaurante' e 'usuário'.
+-Função para Recomendar Restaurantes: Primeiro a funçãosSolicita ao usuário o nome de um restaurante que ele frequentou, encontra o ID do restaurante e seus vizinhos (usuários que também revisaram o mesmo restaurante).Depois disso,coleta outros restaurantes revisados por esses vizinhos, excluindo o restaurante de entrada e imprime restaurantes que pessoas que gostam do restaurante de entrada costumam gostar.
+- Contagem de Revisões e Listagem de Restaurantes: Também foi criada uma contagem de usuários por restaurante, mostrando relevâncias dos mesmos.
+<p align="center">
+  <img src="Imagens/recomendacao_readme.png"  >
+</p>
 
   
-## Results
-- Em processo...
+## Deploy
+- O deploy foi a parte que mais deu dor de cabeça. Fiz o deploy do algoritmo no [StreamLit]([https://link-url-here.org](https://recomendacaorestaurantes-bqfs49xnrhefkbqom23trg.streamlit.app/)) e por lá você pode testar o algoritmo por si só. Caso more no Rio de Janeiro poderá visitar os restaurantes que foram recomendados. Ainda sim, tive muitos problemas no deploy. No localhost o programa funcionava com perfeição, mas no Streamlit Cloud os caminhos estavam dando erro e os arquivos nao estavam sendo encontrados, por isso, usei a biblioteca 'os' para identificar o local padrão e somar com o nome dos arquivos.
 
-[![author](https://img.shields.io/badge/author-ViniciusFarinha-blue.svg)](https://www.linkedin.com/in/viniciusfarinha/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/ViniciusFarinha)
+Aqui está uma foto de como ficou a aplicação:
+
+ 
+<p align="center">
+
+<img src ="examples/foto_streamlit.png"> 
+</p>
+
+
+<p align="center"> ** Caso tenha se interessado pelo meu trabalho, te convido a conhecer minhas redes sociais. Obrigado! ** </p>
 
 <p align="center">
   <img src="Imagens/Logo.png"  width="400" height="350" >
 </p>
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfarinha) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusFarinha)[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]( https://viniciusfarinha.my.canva.site/)
   
