@@ -25,12 +25,25 @@ st.set_page_config(page_title='Recomenda Restaurantes')
 st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
 
-#Imagem
-image = Image.open('Recomendacao_Restaurantes/Images/yelp.jpg')
+#Imagem--------------------------------
+# Defina o caminho da imagem
+image_path = 'Recomendacao_Restaurantes/Images/yelp.jpg'
 
-st.image(image)
+try:
+    # Use 'with open' para abrir a imagem
+    with open(image_path, 'rb') as file:
+        # Abra a imagem com o módulo PIL (Pillow)
+        image = Image.open(file)
 
-
+        # Exiba a imagem no aplicativo Streamlit
+        st.image(image)
+except FileNotFoundError as e:
+    print(f"O arquivo {image_path} não foi encontrado.")
+    print(f"Detalhes do erro: {e}")
+except Exception as e:
+    print(f"Ocorreu um erro ao abrir a imagem {image_path}.")
+    print(f"Detalhes do erro: {e}")
+# ------------------------------------------------
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 # -----Model-----#
 
