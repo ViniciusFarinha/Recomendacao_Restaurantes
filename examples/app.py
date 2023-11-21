@@ -15,14 +15,14 @@ csv_path = './Recomendacao_Restaurantes/examples/df_recomend.csv'
 current_directory = os.path.dirname(__file__)
 st.write(current_directory)
 
-df_recomend = pd.read_csv(csv_path)
+
 
 
 
 # Elementos de Texto
 st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
-
+df_recomend = pd.read_csv(csv_path)
 #Imagem--------------------------------
 # Defina o caminho da imagem
 image_path = 'Recomendacao_Restaurantes/Images/yelp.jpg'
