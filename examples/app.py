@@ -29,7 +29,7 @@ df_recomend = pd.read_csv(csv_path)
 
 image1_filename = "yelp.jpg"
 image1_path = os.path.join(current_directory, image1_filename)
-
+st.write(image1_path)
 image1 = Image.open(image1_path)
 
         # Exiba a imagem no aplicativo Streamlit
