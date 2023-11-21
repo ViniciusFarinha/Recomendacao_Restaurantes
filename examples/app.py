@@ -33,7 +33,7 @@ image1_path = os.path.join(current_directory, image1_filename)
 image1 = Image.open(image1_path)
 
         # Exiba a imagem no aplicativo Streamlit
-st.image(imaimage1ge)
+st.image(image1)
 
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 
