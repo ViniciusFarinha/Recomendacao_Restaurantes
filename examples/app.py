@@ -7,7 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 
-df_recomend = pd.read_csv(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\data\df_recomend.csv')
+df_recomend = pd.read_csv(r'Recomendacao_Restaurantes\data\df_recomend.csv')
 
 st.set_page_config(page_title='Recomenda Restaurantes')
 
@@ -24,11 +24,11 @@ st.image(image)
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 # -----Model-----#
 
-with open(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_file:
+with open(r'Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_file:
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
-    df_recomend = pd.read_csv(r'C:\Users\Pichau\Documents\GitHub\App_Yelp\Recomendacao_Restaurantes\data\df_recomend.csv')
+    df_recomend = pd.read_csv(r'Recomendacao_Restaurantes\data\df_recomend.csv')
     # Encontrando o ID do restaurante com base no nome
     restaurant_ids = df_recomend[df_recomend['name'] == restaurant_name]['id'].unique()
     if not restaurant_ids:
