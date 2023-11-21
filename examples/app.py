@@ -15,7 +15,8 @@ csv_path = './Recomendacao_Restaurantes/examples/df_recomend.csv'
 current_directory = os.path.dirname(__file__)
 st.write(current_directory)
 
-
+csv_filename = "df_recomend.csv"
+csv_path = os.path.join(current_directory, csv_filename)
 
 
 
