@@ -123,6 +123,9 @@ O propósito do projeto é criar um projeto de portifólio usando dados reais! A
   <img src="Imagens/Clusters_image.png"  >
 </p>
 
+_Ferramentas: sklearn, textblob,KMeans, Pandas_
+
+
 ### Recommendation algorithm
 - Criação de um Grafo: Foi criado um grafo utilizando a biblioteca networkx onde os nós representam 'restaurante' e 'usuário'.
 -Função para Recomendar Restaurantes: Primeiro a funçãosSolicita ao usuário o nome de um restaurante que ele frequentou, encontra o ID do restaurante e seus vizinhos (usuários que também revisaram o mesmo restaurante).Depois disso,coleta outros restaurantes revisados por esses vizinhos, excluindo o restaurante de entrada e imprime restaurantes que pessoas que gostam do restaurante de entrada costumam gostar.
@@ -131,12 +134,14 @@ O propósito do projeto é criar um projeto de portifólio usando dados reais! A
   <img src="Imagens/recomendacao_readme.png"  >
 </p>
 
-  
+_Ferramentas: networkx, pickle, Pandas_
+
 ## Deploy
 - O deploy foi a parte que mais deu dor de cabeça. Fiz o deploy do algoritmo no [StreamLit]([https://link-url-here.org](https://recomendacaorestaurantes-bqfs49xnrhefkbqom23trg.streamlit.app/)) e por lá você pode testar o algoritmo por si só. Caso more no Rio de Janeiro poderá visitar os restaurantes que foram recomendados. Ainda sim, tive muitos problemas no deploy. No localhost o programa funcionava com perfeição, mas no Streamlit Cloud os caminhos estavam dando erro e os arquivos nao estavam sendo encontrados, por isso, usei a biblioteca 'os' para identificar o local padrão e somar com o nome dos arquivos.
 
 Aqui está uma foto de como ficou a aplicação:
 
+_Ferramentas: Pandas, Streamlit, os, pickle, matplotlib,seaborn,PIL,collections_
  
 <p align="center">
 
