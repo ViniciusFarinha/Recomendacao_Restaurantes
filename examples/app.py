@@ -7,6 +7,9 @@ import seaborn as sns
 from PIL import Image
 import os
 
+
+
+st.set_page_config(page_title='Recomenda Restaurantes')
 csv_path = 'Recomendacao_Restaurantes/examples/df_recomend.csv'
 
 try:
@@ -15,12 +18,11 @@ try:
         # Leia o conteúdo do arquivo CSV
         # Você pode usar o pandas para ler os dados
         df_recomend = pd.read_csv(file)
+        
 except FileNotFoundError as e:
     print(f"O arquivo {csv_path} não foi encontrado.")
     print(f"Detalhes do erro: {e}")
-
-st.set_page_config(page_title='Recomenda Restaurantes')
-
+st.dataframe(df_recomend, use_container_width=True)
 # Elementos de Texto
 st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
