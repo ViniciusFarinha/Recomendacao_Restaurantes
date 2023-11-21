@@ -26,7 +26,7 @@ st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
 
 #Imagem
-image = Image.open('Recomendacao_Restaurantes\Images\yelp.jpg')
+image = Image.open('Recomendacao_Restaurantes/Images/yelp.jpg')
 
 st.image(image)
 
