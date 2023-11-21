@@ -27,7 +27,7 @@ df_recomend = pd.read_csv(csv_path)
 #Imagem--------------------------------
 # Defina o caminho da imagem
 
-image1_filename = "yelp.jpg"
+image1_filename = "restaurante.jpg"
 image1_path = os.path.join(current_directory, image1_filename)
 
 image1 = Image.open(image1_path)
