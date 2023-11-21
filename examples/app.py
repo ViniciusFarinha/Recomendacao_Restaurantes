@@ -12,17 +12,16 @@ import os
 st.set_page_config(page_title='Recomenda Restaurantes')
 csv_path = 'Recomendacao_Restaurantes/examples/df_recomend.csv'
 
-try:
-    # Use 'with open' para abrir o arquivo com encoding 'utf-8'
-    with open(csv_path, 'r', encoding='utf-8') as file:
-        # Leia o conteúdo do arquivo CSV
-        # Você pode usar o pandas para ler os dados
-        df_recomend = pd.read_csv(file)
-        
-except FileNotFoundError as e:
-    print(f"O arquivo {csv_path} não foi encontrado.")
-    print(f"Detalhes do erro: {e}")
-df_recomend = pd.read_csv(csv_path)
+def load_data(url):
+    df_recomend = pd.read_csv(url)  # 👈 Download the data
+    return df_recomend
+
+df_recomend = load_data("https://github.com/ViniciusFarinha/Recomendacao_Restaurantes/blob/main/examples/df_recomend.csv")
+st.dataframe(df_recomend)
+
+st.button("Rerun")
+
+
 st.dataframe(df_recomend, use_container_width=True)
 # Elementos de Texto
 st.markdown('# Recomendação de Restaurantes')
