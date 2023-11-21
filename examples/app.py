@@ -13,7 +13,7 @@ st.set_page_config(page_title='Recomenda Restaurantes')
 csv_path = './Recomendacao_Restaurantes/examples/df_recomend.csv'
 
 current_directory = os.path.dirname(__file__)
-st.write(current_directory)
+
 
 csv_filename = "df_recomend.csv"
 csv_path = os.path.join(current_directory, csv_filename)
@@ -29,7 +29,7 @@ df_recomend = pd.read_csv(csv_path)
 
 image1_filename = "yelp.jpg"
 image1_path = os.path.join(current_directory, image1_filename)
-st.write(image1_path)
+
 image1 = Image.open(image1_path)
 
         # Exiba a imagem no aplicativo Streamlit
@@ -41,19 +41,14 @@ st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 # -----Model-----------------------------
 
 # Defina o caminho do arquivo pickle
-pickle_path = 'Recomendacao_Restaurantes/examples/grafo_modelo.pkl'
 
-try:
-    # Use 'with open' para abrir o arquivo pickle
-    with open(pickle_path, 'rb') as model_file:
+pickle_filename = 'grafo_modelo.pkl'
+pickle_path = os.path.join(current_directory, pickle_filename)
+
+with open(pickle_path, 'rb') as model_file:
         # Leia o conteúdo do arquivo pickle
         G = pickle.load(model_file)
-except FileNotFoundError as e:
-    print(f"O arquivo {pickle_path} não foi encontrado.")
-    print(f"Detalhes do erro: {e}")
-except Exception as e:
-    print(f"Ocorreu um erro ao abrir o arquivo {pickle_path}.")
-    print(f"Detalhes do erro: {e}")
+
 
 #-----------------------------------
 
@@ -558,7 +553,7 @@ if st.button('Me Recomende!'):
 
 image2_filename = "Logo.jpg"
 image2_path = os.path.join(current_directory, image2_filename)
-st.write(image2_path)
+
 image2 = Image.open(image2_path)
 st.image(image2)
 
