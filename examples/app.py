@@ -16,13 +16,11 @@ def load_data(url):
     df_recomend = pd.read_csv(url)  # 👈 Download the data
     return df_recomend
 
-df_recomend = load_data("https://github.com/ViniciusFarinha/Recomendacao_Restaurantes/blob/main/examples/df_recomend.csv")
+df_recomend = load_data("https://raw.githubusercontent.com/ViniciusFarinha/Recomendacao_Restaurantes/main/examples/df_recomend.csv")
 st.dataframe(df_recomend)
 
-st.button("Rerun")
 
 
-st.dataframe(df_recomend, use_container_width=True)
 # Elementos de Texto
 st.markdown('# Recomendação de Restaurantes')
 st.markdown('##### **Olá, este é meu programa de recomendação de restaurantes! Se você está interessado em conhecer lugares novos similares aos que você já gosta, experimente o programa abaixo!**')
