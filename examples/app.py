@@ -7,8 +7,11 @@ import seaborn as sns
 from PIL import Image
 import os
 
-df_recomend = pd.read_csv('Recomendacao_Restaurantes\examples\df_recomend.csv')
+csv_path = 'Recomendacao_Restaurantes/examples/df_recomend.csv'
 
+with open(csv_path, 'r', encoding='utf-8') as file:
+    
+    df_recomend = pd.read_csv(file)
 st.set_page_config(page_title='Recomenda Restaurantes')
 
 # Elementos de Texto
@@ -28,7 +31,10 @@ with open("Recomendacao_Restaurantes\examples\grafo_modelo.pkl","rb") as model_f
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
-    df_recomend = pd.read_csv('Recomendacao_Restaurantes\examples\df_recomend.csv')
+    # Use 'with open' para abrir o arquivo
+    with open(csv_path, 'r', encoding='utf-8') as file:
+    
+        df_recomend = pd.read_csv(file)
     # Encontrando o ID do restaurante com base no nome
     restaurant_ids = df_recomend[df_recomend['name'] == restaurant_name]['id'].unique()
     if not restaurant_ids:
