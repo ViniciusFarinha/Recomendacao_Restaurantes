@@ -12,6 +12,10 @@
 
 O propósito do projeto é criar um projeto de portifólio usando dados reais! A ideia aqui é pegar dados de 1000 restaurantes do Rio de Janeiro com uma API disponibilizada pela Yelp. Assim, ao final do projeto posso criar um algoritmo de recomendação com base nos estabelecimentos e nas reviews dos usuários.
 
+<p align="center">
+  <img src="examples/foto_readme.jpg" >
+</p>
+
 ## Instruções para Execução dos Notebooks em Python Localmente
 1. Instale as dependências necessárias.
 2. Execute os notebooks como de costume, usando um servidor Jupyter Notebook, Vscode, etc.
