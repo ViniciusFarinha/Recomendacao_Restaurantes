@@ -67,15 +67,7 @@ except Exception as e:
 #-----------------------------------
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
-    try:
-        # Use 'with open' para abrir o arquivo com encoding 'utf-8'
-        with open(csv_path, 'r', encoding='utf-8') as file:
-            # Leia o conteúdo do arquivo CSV
-            # Você pode usar o pandas para ler os dados
-            df_recomend = pd.read_csv(file)
-    except FileNotFoundError as e:
-        print(f"O arquivo {csv_path} não foi encontrado.")
-        print(f"Detalhes do erro: {e}")
+    
     # Encontrando o ID do restaurante com base no nome
     restaurant_ids = df_recomend[df_recomend['name'] == restaurant_name]['id'].unique()
     if not restaurant_ids:
