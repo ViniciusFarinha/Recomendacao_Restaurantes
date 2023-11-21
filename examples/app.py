@@ -12,7 +12,7 @@ import os
 st.set_page_config(page_title='Recomenda Restaurantes')
 csv_path = './Recomendacao_Restaurantes/examples/df_recomend.csv'
 
-df_recomend = pd.read_csv(csv_path)
+df_recomend = pd.read_csv('./Recomendacao_Restaurantes/examples/df_recomend.csv')
 
 
 
