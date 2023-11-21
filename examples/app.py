@@ -7,7 +7,7 @@ import seaborn as sns
 from PIL import Image
 
 
-df_recomend = pd.read_csv(r'Recomendacao_Restaurantes\data\df_recomend.csv')
+df_recomend = pd.read_csv('Recomendacao_Restaurantes\data\df_recomend.csv')
 
 st.set_page_config(page_title='Recomenda Restaurantes')
 
@@ -24,7 +24,7 @@ st.image(image)
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 # -----Model-----#
 
-with open(r'Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_file:
+with open('Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_file:
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
