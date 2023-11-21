@@ -26,23 +26,15 @@ st.markdown('##### **Olá, este é meu programa de recomendação de restaurante
 df_recomend = pd.read_csv(csv_path)
 #Imagem--------------------------------
 # Defina o caminho da imagem
-image_path = 'Recomendacao_Restaurantes/Images/yelp.jpg'
 
-try:
-    # Use 'with open' para abrir a imagem
-    with open(image_path, 'rb') as file:
-        # Abra a imagem com o módulo PIL (Pillow)
-        image = Image.open(file)
+image1_filename = "yelp.jpg"
+image1_path = os.path.join(current_directory, image1_filename)
+
+image1 = Image.open(image1_path)
 
         # Exiba a imagem no aplicativo Streamlit
-        st.image(image)
-except FileNotFoundError as e:
-    print(f"O arquivo {image_path} não foi encontrado.")
-    print(f"Detalhes do erro: {e}")
-except Exception as e:
-    print(f"Ocorreu um erro ao abrir a imagem {image_path}.")
-    print(f"Detalhes do erro: {e}")
-# ------------------------------------------------
+st.image(imaimage1ge)
+
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
 
 
