@@ -555,10 +555,12 @@ if st.button('Me Recomende!'):
 
 #Imagem
 
-image2 = Image.open('Recomendacao_Restaurantes\Images\Logo.jpg')
 
+image2_filename = "Logo.jpg"
+image2_path = os.path.join(current_directory, image2_filename)
+st.write(image2_path)
+image2 = Image.open(image2_path)
 st.image(image2)
-
 
 
 
