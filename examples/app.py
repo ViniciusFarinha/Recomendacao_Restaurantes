@@ -45,10 +45,26 @@ except Exception as e:
     print(f"Detalhes do erro: {e}")
 # ------------------------------------------------
 st.markdown('**Diga o seu nome e escolha um restaurante que você gosta**')
-# -----Model-----#
 
-with open("Recomendacao_Restaurantes\examples\grafo_modelo.pkl","rb") as model_file:
-    G = pickle.load(model_file)
+
+# -----Model-----------------------------
+
+# Defina o caminho do arquivo pickle
+pickle_path = 'Recomendacao_Restaurantes/examples/grafo_modelo.pkl'
+
+try:
+    # Use 'with open' para abrir o arquivo pickle
+    with open(pickle_path, 'rb') as model_file:
+        # Leia o conteúdo do arquivo pickle
+        G = pickle.load(model_file)
+except FileNotFoundError as e:
+    print(f"O arquivo {pickle_path} não foi encontrado.")
+    print(f"Detalhes do erro: {e}")
+except Exception as e:
+    print(f"Ocorreu um erro ao abrir o arquivo {pickle_path}.")
+    print(f"Detalhes do erro: {e}")
+
+#-----------------------------------
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
     try:
