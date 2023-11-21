@@ -12,12 +12,8 @@ import os
 st.set_page_config(page_title='Recomenda Restaurantes')
 csv_path = 'Recomendacao_Restaurantes/examples/df_recomend.csv'
 
-def load_data(url):
-    df_recomend = pd.read_csv(url)  # 👈 Download the data
-    return df_recomend
+df_recomend = pd.read_csv(csv_path)
 
-df_recomend = load_data("https://raw.githubusercontent.com/ViniciusFarinha/Recomendacao_Restaurantes/main/examples/df_recomend.csv")
-st.dataframe(df_recomend)
 
 
 
