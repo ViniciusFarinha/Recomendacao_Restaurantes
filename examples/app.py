@@ -5,9 +5,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
+import os
 
-
-df_recomend = pd.read_csv('Recomendacao_Restaurantes/data/df_recomend.csv')
+df_recomend = pd.read_csv('Recomendacao_Restaurantes\examples\df_recomend.csv')
 
 st.set_page_config(page_title='Recomenda Restaurantes')
 
@@ -28,7 +28,7 @@ with open('Recomendacao_Restaurantes\examples\grafo_modelo.pkl','rb') as model_f
     G = pickle.load(model_file)
 
 def pesquisa_restaurante(restaurant_name, G, df_recomend):
-    df_recomend = pd.read_csv('Recomendacao_Restaurantes/data/df_recomend.csv')
+    df_recomend = pd.read_csv('Recomendacao_Restaurantes\examples\df_recomend.csv')
     # Encontrando o ID do restaurante com base no nome
     restaurant_ids = df_recomend[df_recomend['name'] == restaurant_name]['id'].unique()
     if not restaurant_ids:
